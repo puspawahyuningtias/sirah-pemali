@@ -1,0 +1,10 @@
+.transparent{
+    background:rgba(44, 71, 62, 0.5);
+    width: 60%;
+    height:350px;
+    padding:10px;
+    margin:0px auto;
+    color:#fff;
+    text-align:center;
+  }
+  .transparent h1{margin:0}
