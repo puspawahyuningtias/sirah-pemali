@@ -425,7 +425,7 @@ License: For each use you must have a valid license purchased only from above li
 				<!--begin::Container-->
 				<div class="container my-20">
 					<div class="d-flex flex-row gap-5">
-						<img src="assets/media/stock/600x400/img-1.jpg" class="mw-100" alt="" />
+						<img src="assets/media/img/gallery/8.png" class="mw-100 rounded-3" alt="" />
 
 						<div>
 							<!--begin::Heading-->
@@ -795,7 +795,8 @@ License: For each use you must have a valid license purchased only from above li
 					<!--begin::Title-->
 					<h1 class="text-white lh-base fw-bolder fs-2x fs-lg-3x mb-5">Make Your Reservation now</h1>
 					<p class="text-white my-10">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non odio nam ut nunc. Pulvinar nulla mattis ac lacus.
-						<br>Eget turpis at ac in ac luctus tellus tortor. Urna ornare gravida nunc sapien id nunc.</p>
+						<br>Eget turpis at ac in ac luctus tellus tortor. Urna ornare gravida nunc sapien id nunc.
+					</p>
 					<!--end::Title-->
 					<!--begin::Action-->
 					<a href="#" class="btn btn-primary">Reservation</a>
@@ -809,63 +810,87 @@ License: For each use you must have a valid license purchased only from above li
 		<!--begin::Footer Section-->
 		<div class="mb-0">
 			<!--begin::Wrapper-->
-			<div class="landing-dark-bg pt-20">
+			<div class="pt-10" style="background-color: #181C29;">
 				<!--begin::Container-->
 				<div class="container">
 					<!--begin::Row-->
 					<div class="row py-10 py-lg-20">
 						<!--begin::Col-->
-						<div class="col-lg-6 pe-lg-16 mb-10 mb-lg-0">
+						<div class="col-lg-4 pe-lg-16 mb-10 mb-lg-0">
 							<!--begin::Block-->
-							<div class="rounded landing-dark-border p-9 mb-10">
-								<!--begin::Title-->
-								<h2 class="text-white">Would you need a Custom License?</h2>
-								<!--end::Title-->
-								<!--begin::Text-->
-								<span class="fw-normal fs-4 text-gray-700">Email us to
-									<a href="https://keenthemes.com/support" class="text-white opacity-50 text-hover-primary">support@keenthemes.com</a></span>
-								<!--end::Text-->
+							<div class="rounded p-9">
+								<img alt="Logo" src="assets/media/logos/logo-landing.svg" class="logo-default h-25px h-lg-30px" />
 							</div>
 							<!--end::Block-->
 							<!--begin::Block-->
-							<div class="rounded landing-dark-border p-9">
+							<div class="rounded p-9">
 								<!--begin::Title-->
-								<h2 class="text-white">How About a Custom Project?</h2>
+								<h2 class="fs-3hx" style="color: #0A7A7C;">Start Your Journey With Us</h2>
 								<!--end::Title-->
-								<!--begin::Text-->
-								<span class="fw-normal fs-4 text-gray-700">Use Our Custom Development Service.
-									<a href="../../demo1/dist/pages/profile/overview.html" class="text-white opacity-50 text-hover-primary">Click to Get a Quote</a></span>
-								<!--end::Text-->
 							</div>
 							<!--end::Block-->
 						</div>
 						<!--end::Col-->
 						<!--begin::Col-->
-						<div class="col-lg-6 ps-lg-16">
+						<div class="col-lg-8 ps-lg-16">
 							<!--begin::Navs-->
 							<div class="d-flex justify-content-center">
 								<!--begin::Links-->
-								<div class="d-flex fw-bold flex-column me-20">
+								<div class="d-flex fw-bold flex-column me-20 gap-5">
 									<!--begin::Subtitle-->
 									<h4 class="fw-bolder text-gray-400 mb-6">More for Metronic</h4>
 									<!--end::Subtitle-->
 									<!--begin::Link-->
-									<a href="#" class="text-white opacity-50 text-hover-primary fs-5 mb-6">FAQ</a>
+									<div class="d-flex flex-row align-items-center gap-3">
+										<div class="p-4 rounded-circle" style="background-color: #B0D182;">
+											<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="white" class="bi bi-telephone" viewBox="0 0 16 16">
+												<path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.568 17.568 0 0 0 4.168 6.608 17.569 17.569 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.678.678 0 0 0-.58-.122l-2.19.547a1.745 1.745 0 0 1-1.657-.459L5.482 8.062a1.745 1.745 0 0 1-.46-1.657l.548-2.19a.678.678 0 0 0-.122-.58L3.654 1.328zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+											</svg>
+										</div>
+										<div class="d-flex flex-column">
+											<p class="text-white opacity-50 fs-5 m-0 fw-light">Phone Number</p>
+											<p class="text-white opacity-50 fs-5 m-0 fw-bold">(62) 1829017</p>
+										</div>
+									</div>
 									<!--end::Link-->
 									<!--begin::Link-->
-									<a href="#" class="text-white opacity-50 text-hover-primary fs-5 mb-6">Documentaions</a>
+									<div class="d-flex flex-row align-items-center gap-3">
+										<div class="p-4 rounded-circle" style="background-color: #B0D182;">
+											<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="white" class="bi bi-telephone" viewBox="0 0 16 16">
+												<path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.568 17.568 0 0 0 4.168 6.608 17.569 17.569 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.678.678 0 0 0-.58-.122l-2.19.547a1.745 1.745 0 0 1-1.657-.459L5.482 8.062a1.745 1.745 0 0 1-.46-1.657l.548-2.19a.678.678 0 0 0-.122-.58L3.654 1.328zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+											</svg>
+										</div>
+										<div class="d-flex flex-column">
+											<p class="text-white opacity-50 fs-5 m-0 fw-light">Email</p>
+											<p class="text-white opacity-50 fs-5 m-0 fw-bold">javacafe@email.com</p>
+										</div>
+									</div>
 									<!--end::Link-->
 									<!--begin::Link-->
-									<a href="#" class="text-white opacity-50 text-hover-primary fs-5 mb-6">Video Tuts</a>
+									<div class="d-flex flex-row align-items-center gap-3">
+										<div class="p-4 rounded-circle" style="background-color: #B0D182;">
+											<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="white" class="bi bi-telephone" viewBox="0 0 16 16">
+												<path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.568 17.568 0 0 0 4.168 6.608 17.569 17.569 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.678.678 0 0 0-.58-.122l-2.19.547a1.745 1.745 0 0 1-1.657-.459L5.482 8.062a1.745 1.745 0 0 1-.46-1.657l.548-2.19a.678.678 0 0 0-.122-.58L3.654 1.328zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+											</svg>
+										</div>
+										<div class="d-flex flex-column">
+											<p class="text-white opacity-50 fs-5 m-0 fw-light">Opening Hours</p>
+											<p class="text-white opacity-50 fs-5 m-0 fw-bold">Everyday from 6 AM - 9 PM</p>
+										</div>
+									</div>
 									<!--end::Link-->
 									<!--begin::Link-->
-									<a href="#" class="text-white opacity-50 text-hover-primary fs-5 mb-6">Changelog</a>
-									<!--end::Link-->
-									<!--begin::Link-->
-									<a href="#" class="text-white opacity-50 text-hover-primary fs-5 mb-6">Github</a>
-									<!--end::Link-->
-									<!--begin::Link-->
-									<a href="#" class="text-white opacity-50 text-hover-primary fs-5">Tutorials</a>
+									<div class="d-flex flex-row align-items-center gap-3">
+										<div class="p-4 rounded-circle" style="background-color: #B0D182;">
+											<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="white" class="bi bi-telephone" viewBox="0 0 16 16">
+												<path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.568 17.568 0 0 0 4.168 6.608 17.569 17.569 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.678.678 0 0 0-.58-.122l-2.19.547a1.745 1.745 0 0 1-1.657-.459L5.482 8.062a1.745 1.745 0 0 1-.46-1.657l.548-2.19a.678.678 0 0 0-.122-.58L3.654 1.328zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
+											</svg>
+										</div>
+										<div class="d-flex flex-column">
+											<p class="text-white opacity-50 fs-5 m-0 fw-light">Map Street</p>
+											<p class="text-white opacity-50 fs-5 m-0 fw-bold">Jl. Raya Ajibarang Bumiayu 2787</p>
+										</div>
+									</div>
 									<!--end::Link-->
 								</div>
 								<!--end::Links-->
@@ -874,36 +899,28 @@ License: For each use you must have a valid license purchased only from above li
 									<!--begin::Subtitle-->
 									<h4 class="fw-bolder text-gray-400 mb-6">Stay Connected</h4>
 									<!--end::Subtitle-->
+									<div class="d-flex flex-row gap-3">
 									<!--begin::Link-->
 									<a href="#" class="mb-6">
 										<img src="assets/media/svg/brand-logos/facebook-4.svg" class="h-20px me-2" alt="" />
-										<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Facebook</span>
-									</a>
-									<!--end::Link-->
-									<!--begin::Link-->
-									<a href="#" class="mb-6">
-										<img src="assets/media/svg/brand-logos/github.svg" class="h-20px me-2" alt="" />
-										<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Github</span>
 									</a>
 									<!--end::Link-->
 									<!--begin::Link-->
 									<a href="#" class="mb-6">
 										<img src="assets/media/svg/brand-logos/twitter.svg" class="h-20px me-2" alt="" />
-										<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Twitter</span>
 									</a>
 									<!--end::Link-->
 									<!--begin::Link-->
 									<a href="#" class="mb-6">
-										<img src="assets/media/svg/brand-logos/dribbble-icon-1.svg" class="h-20px me-2" alt="" />
-										<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Dribbble</span>
+										<img src="assets/media/svg/brand-logos/youtube-play.svg" class="h-20px me-2" alt="" />
 									</a>
 									<!--end::Link-->
 									<!--begin::Link-->
 									<a href="#" class="mb-6">
 										<img src="assets/media/svg/brand-logos/instagram-2-1.svg" class="h-20px me-2" alt="" />
-										<span class="text-white opacity-50 text-hover-primary fs-5 mb-6">Instagram</span>
 									</a>
 									<!--end::Link-->
+									</div>
 								</div>
 								<!--end::Links-->
 							</div>
@@ -912,42 +929,6 @@ License: For each use you must have a valid license purchased only from above li
 						<!--end::Col-->
 					</div>
 					<!--end::Row-->
-				</div>
-				<!--end::Container-->
-				<!--begin::Separator-->
-				<div class="landing-dark-separator"></div>
-				<!--end::Separator-->
-				<!--begin::Container-->
-				<div class="container">
-					<!--begin::Wrapper-->
-					<div class="d-flex flex-column flex-md-row flex-stack py-7 py-lg-10">
-						<!--begin::Copyright-->
-						<div class="d-flex align-items-center order-2 order-md-1">
-							<!--begin::Logo-->
-							<a href="../../demo1/dist/landing.html">
-								<img alt="Logo" src="assets/media/logos/logo-landing.svg" class="h-15px h-md-20px" />
-							</a>
-							<!--end::Logo image-->
-							<!--begin::Logo image-->
-							<span class="mx-5 fs-6 fw-bold text-gray-600 pt-1" href="https://keenthemes.com">© 2021 Keenthemes Inc.</span>
-							<!--end::Logo image-->
-						</div>
-						<!--end::Copyright-->
-						<!--begin::Menu-->
-						<ul class="menu menu-gray-600 menu-hover-primary fw-bold fs-6 fs-md-5 order-1 mb-5 mb-md-0">
-							<li class="menu-item">
-								<a href="https://keenthemes.com" target="_blank" class="menu-link px-2">About</a>
-							</li>
-							<li class="menu-item mx-5">
-								<a href="https://keenthemes.com/support" target="_blank" class="menu-link px-2">Support</a>
-							</li>
-							<li class="menu-item">
-								<a href="" target="_blank" class="menu-link px-2">Purchase</a>
-							</li>
-						</ul>
-						<!--end::Menu-->
-					</div>
-					<!--end::Wrapper-->
 				</div>
 				<!--end::Container-->
 			</div>
