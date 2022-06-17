@@ -84,28 +84,28 @@ License: For each use you must have a valid license purchased only from above li
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link active py-3 px-4 px-xxl-6" href="#kt_body" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Home</a>
+											<a class="menu-link nav-link active py-3 px-4 px-xxl-6" href="/">Home</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#how-it-works" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Restaurant & Cafe</a>
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/restaurant">Restaurant & Cafe</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#achievements" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Camping</a>
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/camping">Camping</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="#team" data-kt-scroll-toggle="true" data-kt-drawer-dismiss="true">Contact Us</a>
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/contact">Contact Us</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
