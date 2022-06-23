@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/restaurant', function () {
     return view('restaurant');
 });
+Route::get('/camping', function () {
+    return view('camping');
+});

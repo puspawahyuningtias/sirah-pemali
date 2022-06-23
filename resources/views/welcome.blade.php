@@ -285,7 +285,7 @@ License: For each use you must have a valid license purchased only from above li
 					<!--begin::Slider-->
 					<div data-tns="true" data-tns-loop="true" data-tns-swipe-angle="false" data-tns-speed="2000" data-tns-autoplay="true" data-tns-autoplay-timeout="18000" data-tns-controls="true" data-tns-nav="false" data-tns-items="3" data-tns-center="false" data-tns-dots="false" data-tns-prev-button="#kt_team_slider_prev1" data-tns-next-button="#kt_team_slider_next1">
 						<!--begin::Item-->
-						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 mb-md-0 text-center bg-white rounded shadow-sm">
+						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 text-center bg-white rounded shadow-sm">
 							<!--begin::Illustration-->
 							<img src="assets/media/img/icon/1.png" class="mw-100" alt="" />
 							<!--end::Illustration-->
@@ -300,7 +300,7 @@ License: For each use you must have a valid license purchased only from above li
 						</div>
 						<!--end::Item-->
 						<!--begin::Item-->
-						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 mb-md-0 text-center bg-white rounded shadow-sm">
+						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 text-center bg-white rounded shadow-sm">
 							<!--begin::Illustration-->
 							<img src="assets/media/img/icon/2.png" class="mw-100" alt="" />
 							<!--end::Illustration-->
@@ -315,7 +315,7 @@ License: For each use you must have a valid license purchased only from above li
 						</div>
 						<!--end::Item-->
 						<!--begin::Item-->
-						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 mb-md-0 text-center bg-white rounded shadow-sm">
+						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 text-center bg-white rounded shadow-sm">
 							<!--begin::Illustration-->
 							<img src="assets/media/img/icon/3.png" class="mw-100" alt="" />
 							<!--end::Illustration-->
@@ -330,7 +330,7 @@ License: For each use you must have a valid license purchased only from above li
 						</div>
 						<!--end::Item-->
 						<!--begin::Item-->
-						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 mb-md-0 text-center bg-white rounded shadow-sm">
+						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 text-center bg-white rounded shadow-sm">
 							<!--begin::Illustration-->
 							<img src="assets/media/img/icon/1.png" class="mw-100" alt="" />
 							<!--end::Illustration-->
