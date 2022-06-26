@@ -25,3 +25,6 @@ Route::get('/camping', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/Reservation', function () {
+    return view('reservation');
+});
