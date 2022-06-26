@@ -22,3 +22,6 @@ Route::get('/restaurant', function () {
 Route::get('/camping', function () {
     return view('camping');
 });
+Route::get('/contact', function () {
+    return view('contact');
+});
