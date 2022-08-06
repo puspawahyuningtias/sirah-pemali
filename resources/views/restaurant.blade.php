@@ -70,8 +70,8 @@ License: For each use you must have a valid license purchased only from above li
 								<!--end::Mobile menu toggle-->
 								<!--begin::Logo image-->
 								<a href="../../demo1/dist/landing.html">
-									<img alt="Logo" src="assets/media/logos/logo-landing.svg" class="logo-default h-25px h-lg-30px" />
-									<img alt="Logo" src="assets/media/logos/logo-landing-dark.svg" class="logo-sticky h-20px h-lg-25px" />
+									<img alt="Logo" src="assets/media/img/logo/logo1.svg" class="logo-default h-30px h-lg-35px" />
+									<img alt="Logo" src="assets/media/img/logo/logo2.svg" class="logo-sticky h-25px h-lg-30px" />
 								</a>
 								<!--end::Logo image-->
 							</div>
@@ -98,14 +98,21 @@ License: For each use you must have a valid license purchased only from above li
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/camping">Camping</a>
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/paket">Paket Wisata</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/contact">Contact Us</a>
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/berita">Berita</a>
+											<!--end::Menu link-->
+										</div>
+										<!--end::Menu item-->
+										<!--begin::Menu item-->
+										<div class="menu-item">
+											<!--begin::Menu link-->
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/contact">Hubungi Kami</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
@@ -116,7 +123,7 @@ License: For each use you must have a valid license purchased only from above li
 							<!--end::Menu wrapper-->
 							<!--begin::Toolbar-->
 							<div class="flex-equal text-end ms-1">
-								<a href="Reservation" class="btn btn-primary">Reservation</a>
+								<a href="Reservation" class="btn btn-primary">Reservasi</a>
 							</div>
 							<!--end::Toolbar-->
 						</div>
@@ -141,18 +148,17 @@ License: For each use you must have a valid license purchased only from above li
 							<!--begin::Heading-->
 							<div class="text-start my-17">
 								<!--begin::Title-->
-								<h1 class="text-dark mb-5">Taste The Best Menu We serve</h1>
+								<h1 class="text-dark mb-5">Pines Resto & Cafe Sirah Pemali</h1>
 								<!--end::Title-->
 								<!--begin::Sub-title-->
 								<div class="fs-5 text-muted fw-bold">
-									<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.
-									</p>
+									<p>Cicipi Menu Terbaik Yang Kami Sajikan. Kami menyediakan banyak menu mulai dari minuman, makanan berat dan cemilan</p>
 								</div>
 								<!--end::Sub-title=-->
 							</div>
 							<!--end::Heading-->
 						</div>
-						<img src="assets/media/img/gallery/9.png" class="mw-100 rounded-3" alt="" />
+						<img src="assets/media/img/gallery/restaurant/1.png" class="mw-100 rounded-3" alt="" />
 					</div>
 				</div>
 				<!--end::Container-->
@@ -179,60 +185,64 @@ License: For each use you must have a valid license purchased only from above li
 				<div class="row justify-content-around">
 					<div class="col-md-5 my-5">
 						<div class="d-flex flex-row justify-content-between text-start">
-							<div>
-								<h1>Americano</h1>
-								<p>Amet minim mollit non deserunt ullamco.</p>
-							</div>
-							<h1 class="text-primary">Rp 18K</h1>
+							<p style="color: #767676;">Menu</p>
+							<p style="color: #767676;">Hot</p>
+							<p style="color: #767676;">Ice</p>
 						</div>
 					</div>
 					<div class="col-md-5 my-5">
 						<div class="d-flex flex-row justify-content-between text-start">
-							<div>
-								<h1>Arabica</h1>
-								<p>Amet minim mollit non deserunt ullamco.</p>
-							</div>
-							<h1 class="text-primary">Rp 18K</h1>
+							<p style="color: #767676;">Menu</p>
+							<p style="color: #767676;">Hot</p>
+							<p style="color: #767676;">Ice</p>
 						</div>
 					</div>
 				</div>
 				<div class="row justify-content-around">
 					<div class="col-md-5 my-5">
 						<div class="d-flex flex-row justify-content-between text-start">
-							<div>
-								<h1>Cappucino</h1>
-								<p>Amet minim mollit non deserunt ullamco.</p>
-							</div>
+							<h1>Arabica</h1>
 							<h1 class="text-primary">Rp 20K</h1>
+							<h1 class="text-primary">-</h1>
 						</div>
 					</div>
 					<div class="col-md-5 my-5">
 						<div class="d-flex flex-row justify-content-between text-start">
-							<div>
-								<h1>Affogato</h1>
-								<p>Amet minim mollit non deserunt ullamco.</p>
-							</div>
-							<h1 class="text-primary">Rp 20K</h1>
+							<h1>White Coffe</h1>
+							<h1 class="text-primary">Rp 5K</h1>
+							<h1 class="text-primary">Rp 8K</h1>
 						</div>
 					</div>
 				</div>
 				<div class="row justify-content-around">
 					<div class="col-md-5 my-5">
 						<div class="d-flex flex-row justify-content-between text-start">
-							<div>
-								<h1>Latte</h1>
-								<p>Amet minim mollit non deserunt ullamco.</p>
-							</div>
-							<h1 class="text-primary">Rp 22K</h1>
+							<h1>Robusta</h1>
+							<h1 class="text-primary">Rp 13K</h1>
+							<h1 class="text-primary">-</h1>
 						</div>
 					</div>
 					<div class="col-md-5 my-5">
 						<div class="d-flex flex-row justify-content-between text-start">
-							<div>
-								<h1>Espresso</h1>
-								<p>Amet minim mollit non deserunt ullamco.</p>
-							</div>
-							<h1 class="text-primary">Rp 22K</h1>
+							<h1>Good Day</h1>
+							<h1 class="text-primary">Rp 5K</h1>
+							<h1 class="text-primary">Rp 8K</h1>
+						</div>
+					</div>
+				</div>
+				<div class="row justify-content-around">
+					<div class="col-md-5 my-5">
+						<div class="d-flex flex-row justify-content-between text-start">
+							<h1>Kopi Hitam</h1>
+							<h1 class="text-primary">Rp 5K</h1>
+							<h1 class="text-primary">-</h1>
+						</div>
+					</div>
+					<div class="col-md-5 my-5">
+						<div class="d-flex flex-row justify-content-between text-start">
+							<h1>Coffeemix</h1>
+							<h1 class="text-primary">Rp 5K</h1>
+							<h1 class="text-primary">Rp 8K</h1>
 						</div>
 					</div>
 				</div>
@@ -259,47 +269,30 @@ License: For each use you must have a valid license purchased only from above li
 							<!--end::Title-->
 							<!--begin::Sub-title-->
 							<div class="d-flex flex-column gap-10">
-								<div class="d-flex flex-row gap-10 text-start">
-									<div>
-										<h1>Tea</h1>
-										<p>Amet minim mollit non deserunt ullamco.</p>
-									</div>
-									<h1 class="text-primary">Rp 18K</h1>
+								<div class="d-flex flex-row justify-content-between gap-10 text-start">
+									<p style="color: #767676;">Menu</p>
+									<p style="color: #767676;">Hot</p>
+									<p style="color: #767676;">Ice</p>
 								</div>
-								<div class="d-flex flex-row gap-10 text-start">
-									<div>
-										<h1>Lemon Tea</h1>
-										<p>Amet minim mollit non deserunt ullamco.</p>
-									</div>
-									<h1 class="text-primary">Rp 18K</h1>
+								<div class="d-flex flex-row justify-content-between gap-10 text-start">
+									<h1>Teh Manis</h1>
+									<h1 class="text-primary">Rp 3K</h1>
+									<h1 class="text-primary">Rp 5K</h1>
 								</div>
-								<div class="d-flex flex-row gap-10 text-start">
-									<div>
-										<h1>chocolate</h1>
-										<p>Amet minim mollit non deserunt ullamco.</p>
-									</div>
-									<h1 class="text-primary">Rp 18K</h1>
-								</div>
-								<div class="d-flex flex-row gap-10 text-start">
-									<div>
-										<h1>Red Velvet</h1>
-										<p>Amet minim mollit non deserunt ullamco.</p>
-									</div>
-									<h1 class="text-primary">Rp 25K</h1>
-								</div>
-								<div class="d-flex flex-row gap-10 text-start">
-									<div>
-										<h1>Mojito</h1>
-										<p>Amet minim mollit non deserunt ullamco.</p>
-									</div>
-									<h1 class="text-primary">Rp 18K</h1>
-								</div>
-								<div class="d-flex flex-row gap-10 text-start">
-									<div>
-										<h1>Mineral Water</h1>
-										<p>Amet minim mollit non deserunt ullamco.</p>
-									</div>
+								<div class="d-flex flex-row justify-content-between gap-10 text-start">
+									<h1>Lemon Tea</h1>
+									<h1 class="text-primary">Rp 7K</h1>
 									<h1 class="text-primary">Rp 10K</h1>
+								</div>
+								<div class="d-flex flex-row justify-content-between gap-10 text-start">
+									<h1>Coklat</h1>
+									<h1 class="text-primary">Rp 5K</h1>
+									<h1 class="text-primary">Rp 8K</h1>
+								</div>
+								<div class="d-flex flex-row justify-content-between gap-10 text-start">
+									<h1>Air Mineral</h1>
+									<h1 class="text-primary">Rp 5K</h1>
+									<h1 class="text-primary">Rp 5K</h1>
 								</div>
 							</div>
 							<!--end::Sub-title=-->

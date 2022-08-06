@@ -70,8 +70,8 @@ License: For each use you must have a valid license purchased only from above li
 								<!--end::Mobile menu toggle-->
 								<!--begin::Logo image-->
 								<a href="../../demo1/dist/landing.html">
-									<img alt="Logo" src="assets/media/logos/logo-landing.svg" class="logo-default h-25px h-lg-30px" />
-									<img alt="Logo" src="assets/media/logos/logo-landing-dark.svg" class="logo-sticky h-20px h-lg-25px" />
+									<img alt="Logo" src="assets/media/img/logo/logo1.svg" class="logo-default h-30px h-lg-35px" />
+									<img alt="Logo" src="assets/media/img/logo/logo2.svg" class="logo-sticky h-25px h-lg-30px" />
 								</a>
 								<!--end::Logo image-->
 							</div>
@@ -98,14 +98,21 @@ License: For each use you must have a valid license purchased only from above li
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/camping">Camping</a>
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/paket">Paket Wisata</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/contact">Contact Us</a>
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/berita">Berita</a>
+											<!--end::Menu link-->
+										</div>
+										<!--end::Menu item-->
+										<!--begin::Menu item-->
+										<div class="menu-item">
+											<!--begin::Menu link-->
+											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/contact">Hubungi Kami</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
@@ -116,7 +123,7 @@ License: For each use you must have a valid license purchased only from above li
 							<!--end::Menu wrapper-->
 							<!--begin::Toolbar-->
 							<div class="flex-equal text-end ms-1">
-								<a href="Reservation" class="btn btn-primary">Reservation</a>
+								<a href="Reservation" class="btn btn-primary">Reservasi</a>
 							</div>
 							<!--end::Toolbar-->
 						</div>
@@ -126,16 +133,16 @@ License: For each use you must have a valid license purchased only from above li
 				</div>
 				<!--end::Header-->
 				<!--begin::Landing hero-->
-				<div class="d-flex flex-column flex-center w-100 min-h-350px min-h-lg-500px px-9" style="background-image: url(assets/media/img/hero.png); background-size: cover;">
+				<div class="d-flex flex-column flex-center w-100 min-h-450px min-h-lg-600px px-9" style="background-image: url(assets/media/img/gallery/home/1.png); background-size: cover;">
 					<!--begin::Heading-->
 					<div class="text-center mb-5 mb-lg-10 py-10 py-lg-20 transparent">
 						<!--begin::Title-->
-						<h1 class="text-white lh-base fw-bolder fs-2x fs-lg-3x mb-5">Wanawisata Sirah Pemali</h1>
+						<h1 class="text-white lh-base fw-bolder fs-2x fs-lg-3x mb-5">Wisata Alam Sirah Pemali</h1>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non odio nam ut nunc. Pulvinar nulla mattis ac lacus.
 							Eget turpis at ac in ac luctus tellus tortor. Urna ornare gravida nunc sapien id nunc.</p>
 						<!--end::Title-->
 						<!--begin::Action-->
-						<a href="#" class="btn btn-primary">Reservation</a>
+						<a href="#" class="btn btn-primary">Reservasi</a>
 						<!--end::Action-->
 					</div>
 					<!--end::Heading-->
@@ -152,11 +159,10 @@ License: For each use you must have a valid license purchased only from above li
 				<!--begin::Heading-->
 				<div class="text-center my-17">
 					<!--begin::Title-->
-					<h3 class="fs-2hx text-dark mb-5" id="how-it-works" data-kt-scroll-offset="{default: 100, lg: 150}">Explore new worlds with<br>exotic natural scenery</h3>
+					<h3 class="fs-2hx text-dark mb-5" id="how-it-works" data-kt-scroll-offset="{default: 100, lg: 150}">Jelajahi wisata baru dengan<br>pemandangan alam yang eksotis</h3>
 					<!--end::Title-->
 					<!--begin::Text-->
-					<div class="fs-5 text-muted fw-bold">Explore the world with what you love beautiful natural beauty.
-					</div>
+					<div class="fs-5 text-muted fw-bold">Jelajahi dunia baru dengan keindahan alam yang indah.</div>
 					<!--end::Text-->
 				</div>
 				<!--end::Heading-->
@@ -167,7 +173,7 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="text-center mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/1.png" class="mb-9 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/2.png" class="mb-9 rounded" alt="" />
 							<!--end::Illustration-->
 						</div>
 						<!--end::Story-->
@@ -178,7 +184,7 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="text-center mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/3.png" class="mb-9 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/3.png" class="mb-9 rounded" alt="" />
 							<!--end::Illustration-->
 						</div>
 						<!--end::Story-->
@@ -189,7 +195,7 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="text-center mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/2.png" class="mb-9 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/4.png" class="mb-9 rounded" alt="" />
 							<!--end::Illustration-->
 						</div>
 						<!--end::Story-->
@@ -287,14 +293,14 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Item-->
 						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 text-center bg-white rounded shadow-sm">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/icon/1.png" class="mw-100" alt="" />
+							<img src="assets/media/img/gallery/home/icon/1.svg" class="mw-100" alt="" />
 							<!--end::Illustration-->
 							<div class="mt-10">
 								<!--begin::Name-->
-								<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Hutan Pinus</a>
+								<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Pelayanan Terbaik</a>
 								<!--end::Name-->
 								<!--begin::Position-->
-								<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor, faucibus dolor massa feugiat iaculis. </div>
+								<div class="text-muted fs-7 fw-bold mt-1 lh-lg">layanan kami dapat diandalkan dan nyaman, layanan kami adalah kualitas.</div>
 								<!--begin::Position-->
 							</div>
 						</div>
@@ -302,14 +308,14 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Item-->
 						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 text-center bg-white rounded shadow-sm">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/icon/2.png" class="mw-100" alt="" />
+							<img src="assets/media/img/gallery/home/icon/2.svg" class="mw-100" alt="" />
 							<!--end::Illustration-->
 							<div class="mt-10">
 								<!--begin::Name-->
-								<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Hutan Pinus</a>
+								<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Harga Terjangkau</a>
 								<!--end::Name-->
 								<!--begin::Position-->
-								<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor, faucibus dolor massa feugiat iaculis. </div>
+								<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Nikmati wisata dan hiburan lengkap dengan harga yang terjangkau.</div>
 								<!--begin::Position-->
 							</div>
 						</div>
@@ -317,14 +323,14 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Item-->
 						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 text-center bg-white rounded shadow-sm">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/icon/3.png" class="mw-100" alt="" />
+							<img src="assets/media/img/gallery/home/icon/3.svg" class="mw-100" alt="" />
 							<!--end::Illustration-->
 							<div class="mt-10">
 								<!--begin::Name-->
-								<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Hutan Pinus</a>
+								<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Fasilitas Bagus</a>
 								<!--end::Name-->
 								<!--begin::Position-->
-								<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor, faucibus dolor massa feugiat iaculis. </div>
+								<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Wisata nyaman dengan fasilitas umum yang terjaga kebersihannya.</div>
 								<!--begin::Position-->
 							</div>
 						</div>
@@ -332,14 +338,14 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Item-->
 						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10 mx-5 py-20 mb-10 text-center bg-white rounded shadow-sm">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/icon/1.png" class="mw-100" alt="" />
+							<img src="assets/media/img/gallery/home/icon/1.svg" class="mw-100" alt="" />
 							<!--end::Illustration-->
 							<div class="mt-10">
 								<!--begin::Name-->
-								<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Hutan Pinus</a>
+								<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Pelayanan Terbaik</a>
 								<!--end::Name-->
 								<!--begin::Position-->
-								<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor, faucibus dolor massa feugiat iaculis. </div>
+								<div class="text-muted fs-7 fw-bold mt-1 lh-lg">layanan kami dapat diandalkan dan nyaman, layanan kami adalah kualitas.</div>
 								<!--begin::Position-->
 							</div>
 						</div>
@@ -363,57 +369,6 @@ License: For each use you must have a valid license purchased only from above li
 					</button>
 					<!--end::Slider button-->
 				</div>
-
-				<!--begin::Product slider-->
-				{{--<div class="tns tns-default">
-					<!--begin::Slider-->
-					<div data-tns="true" data-tns-loop="true" data-tns-swipe-angle="false" data-tns-speed="2000" data-tns-autoplay="true" data-tns-autoplay-timeout="18000" data-tns-controls="true" data-tns-nav="false" data-tns-items="1" data-tns-center="false" data-tns-dots="false" data-tns-prev-button="#kt_team_slider_prev1" data-tns-next-button="#kt_team_slider_next1">
-						<!--begin::Item-->
-						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-							<img src="assets/media/product-demos/demo1.png" class="card-rounded shadow mw-100" alt="" />
-						</div>
-						<!--end::Item-->
-						<!--begin::Item-->
-						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-							<img src="assets/media/product-demos/demo2.png" class="card-rounded shadow mw-100" alt="" />
-						</div>
-						<!--end::Item-->
-						<!--begin::Item-->
-						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-							<img src="assets/media/product-demos/demo4.png" class="card-rounded shadow mw-100" alt="" />
-						</div>
-						<!--end::Item-->
-						<!--begin::Item-->
-						<div class="text-center px-5 pt-5 pt-lg-10 px-lg-10">
-							<img src="assets/media/product-demos/demo5.png" class="card-rounded shadow mw-100" alt="" />
-						</div>
-						<!--end::Item-->
-					</div>
-					<!--end::Slider-->
-					<!--begin::Slider button-->
-					<button class="btn btn-icon btn-active-color-primary" id="kt_team_slider_prev1">
-						<!--begin::Svg Icon | path: icons/duotune/arrows/arr074.svg-->
-						<span class="svg-icon svg-icon-3x">
-							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-								<path d="M11.2657 11.4343L15.45 7.25C15.8642 6.83579 15.8642 6.16421 15.45 5.75C15.0358 5.33579 14.3642 5.33579 13.95 5.75L8.40712 11.2929C8.01659 11.6834 8.01659 12.3166 8.40712 12.7071L13.95 18.25C14.3642 18.6642 15.0358 18.6642 15.45 18.25C15.8642 17.8358 15.8642 17.1642 15.45 16.75L11.2657 12.5657C10.9533 12.2533 10.9533 11.7467 11.2657 11.4343Z" fill="black" />
-							</svg>
-						</span>
-						<!--end::Svg Icon-->
-					</button>
-					<!--end::Slider button-->
-					<!--begin::Slider button-->
-					<button class="btn btn-icon btn-active-color-primary" id="kt_team_slider_next1">
-						<!--begin::Svg Icon | path: icons/duotune/arrows/arr071.svg-->
-						<span class="svg-icon svg-icon-3x">
-							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-								<path d="M12.6343 12.5657L8.45001 16.75C8.0358 17.1642 8.0358 17.8358 8.45001 18.25C8.86423 18.6642 9.5358 18.6642 9.95001 18.25L15.4929 12.7071C15.8834 12.3166 15.8834 11.6834 15.4929 11.2929L9.95001 5.75C9.5358 5.33579 8.86423 5.33579 8.45001 5.75C8.0358 6.16421 8.0358 6.83579 8.45001 7.25L12.6343 11.4343C12.9467 11.7467 12.9467 12.2533 12.6343 12.5657Z" fill="black" />
-							</svg>
-						</span>
-						<!--end::Svg Icon-->
-					</button>
-					<!--end::Slider button-->
-				</div>--}}
-				<!--end::Product slider-->
 			</div>
 			<!--end::Container-->
 		</div>
@@ -425,7 +380,7 @@ License: For each use you must have a valid license purchased only from above li
 				<!--begin::Container-->
 				<div class="container my-20">
 					<div class="d-flex flex-row gap-5">
-						<img src="assets/media/img/gallery/8.png" class="mw-100 rounded-3" alt="" />
+						<img src="assets/media/img/gallery/home/icon/4.svg" class="mw-100 rounded-3" alt="" />
 
 						<div>
 							<!--begin::Heading-->
@@ -436,7 +391,7 @@ License: For each use you must have a valid license purchased only from above li
 								<!--begin::Sub-title-->
 								<div class="fs-5 text-muted fw-bold">
 									<p>Wanawisata Sirah Pemali memiliki jam operasional pukul
-										08.00-16.00 WIB. Harga tiket masuk yang tersedia adalah sebagai berikut :
+										08.00 - 20.00 WIB. Harga tiket masuk yang tersedia adalah sebagai berikut :
 									</p>
 									<!--begin::Item-->
 									<div class="my-3">
@@ -445,11 +400,11 @@ License: For each use you must have a valid license purchased only from above li
 									</div>
 									<div class="my-3">
 										<i class="bi bi-check-circle-fill text-success fs-4"></i>
-										<span class="fs-4 mb-6">Sabtu & Minggu : Rp 15.000</span>
+										<span class="fs-4 mb-6">Sabtu & Minggu : Rp 10.000</span>
 									</div>
 									<div class="my-3">
 										<i class="bi bi-check-circle-fill text-success fs-4"></i>
-										<span class="fs-4 mb-6">Hari Libur Nasional : Rp 15.000</span>
+										<span class="fs-4 mb-6">Hari Libur Nasional : Rp 10.000</span>
 									</div>
 									<!--end::Item-->
 								</div>
@@ -480,7 +435,7 @@ License: For each use you must have a valid license purchased only from above li
 				</div>
 				<!--end::Heading-->
 				<!--begin::Row-->
-				<div class="d-flex flex-row justify-content-between g-lg-10 mb-10 mb-lg-20 gap-10">
+				<div class="d-flex flex-column justify-content-between g-lg-10 mb-10 mb-lg-20 gap-10">
 					<!--begin::Col-->
 					<div class="bg-white rounded px-5 py-10">
 						<!--begin::Testimonial-->
@@ -631,7 +586,7 @@ License: For each use you must have a valid license purchased only from above li
 				</div>
 				<!--end::Row-->
 				<!--begin::Row-->
-				<div class="d-flex flex-row justify-content-between g-lg-10 mb-10 mb-lg-20 gap-10">
+				<div class="d-flex flex-column justify-content-between g-lg-10 mb-10 mb-lg-20 gap-10">
 					<!--begin::Col-->
 					<div class="bg-white rounded px-5 py-10">
 						<!--begin::Testimonial-->
@@ -900,26 +855,26 @@ License: For each use you must have a valid license purchased only from above li
 									<h4 class="fw-bolder text-gray-400 mb-6">Stay Connected</h4>
 									<!--end::Subtitle-->
 									<div class="d-flex flex-row gap-3">
-									<!--begin::Link-->
-									<a href="#" class="mb-6">
-										<img src="assets/media/svg/brand-logos/facebook-4.svg" class="h-20px me-2" alt="" />
-									</a>
-									<!--end::Link-->
-									<!--begin::Link-->
-									<a href="#" class="mb-6">
-										<img src="assets/media/svg/brand-logos/twitter.svg" class="h-20px me-2" alt="" />
-									</a>
-									<!--end::Link-->
-									<!--begin::Link-->
-									<a href="#" class="mb-6">
-										<img src="assets/media/svg/brand-logos/youtube-play.svg" class="h-20px me-2" alt="" />
-									</a>
-									<!--end::Link-->
-									<!--begin::Link-->
-									<a href="#" class="mb-6">
-										<img src="assets/media/svg/brand-logos/instagram-2-1.svg" class="h-20px me-2" alt="" />
-									</a>
-									<!--end::Link-->
+										<!--begin::Link-->
+										<a href="#" class="mb-6">
+											<img src="assets/media/svg/brand-logos/facebook-4.svg" class="h-20px me-2" alt="" />
+										</a>
+										<!--end::Link-->
+										<!--begin::Link-->
+										<a href="#" class="mb-6">
+											<img src="assets/media/svg/brand-logos/twitter.svg" class="h-20px me-2" alt="" />
+										</a>
+										<!--end::Link-->
+										<!--begin::Link-->
+										<a href="#" class="mb-6">
+											<img src="assets/media/svg/brand-logos/youtube-play.svg" class="h-20px me-2" alt="" />
+										</a>
+										<!--end::Link-->
+										<!--begin::Link-->
+										<a href="#" class="mb-6">
+											<img src="assets/media/svg/brand-logos/instagram-2-1.svg" class="h-20px me-2" alt="" />
+										</a>
+										<!--end::Link-->
 									</div>
 								</div>
 								<!--end::Links-->
