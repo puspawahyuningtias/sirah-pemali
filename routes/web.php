@@ -19,8 +19,8 @@ Route::get('/', function () {
 Route::get('/restaurant', function () {
     return view('restaurant');
 });
-Route::get('/camping', function () {
-    return view('camping');
+Route::get('/paket', function () {
+    return view('paket');
 });
 Route::get('/contact', function () {
     return view('contact');
