@@ -97,7 +97,7 @@ License: For each use you must have a valid license purchased only from above li
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link py-3 px-4 px-xxl-6" href="/berita">Berita</a>
+											<a class="menu-link nav-link active py-3 px-4 px-xxl-6" href="/berita">Berita</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
@@ -128,70 +128,12 @@ License: For each use you must have a valid license purchased only from above li
 			<!--end::Wrapper-->
 		</div>
 		<!--end::Header Section-->
+
 		<!--begin::Statistics Section-->
 		<div class="my-5">
-			<!--begin::Heading-->
-			<div class="text-center my-5">
-				<!--begin::Title-->
-				<h3 class="fs-2hx text-dark mb-5" id="how-it-works">Today is The Day, Make Reservation</h3>
-				<!--end::Title-->
-				<!--begin::Text-->
-				<div class="fs-5 text-muted fw-bold">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</div>
-				<!--end::Text-->
-			</div>
-			<!--end::Heading-->
 			<!--begin::Wrapper-->
-			<div class="bg-white">
-				<!--begin::Container-->
-				<div class="container my-20">
-					<div class="row">
-						<div class="col-md-6 mb-5">
-							<div class="row my-5">
-								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Your Name</label>
-									<input type="text" class="form-control" placeholder="Enter your name" />
-								</div>
-								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Date</label>
-									<input type="date" class="form-control" />
-								</div>
-							</div>
-							<div class="row my-5">
-								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Your Email</label>
-									<input type="text" class="form-control" placeholder="Enter your email" />
-								</div>
-								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Time</label>
-									<input type="time" class="form-control" />
-								</div>
-							</div>
-							<div class="row my-5">
-								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Phone</label>
-									<input type="text" class="form-control" placeholder="Enter your email" />
-								</div>
-								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Reservation Type</label>
-									<select class="form-select" data-control="select2" data-placeholder="Select an option" data-hide-search="true">
-										<option></option>
-										<option value="1">Option 1</option>
-										<option value="2">Option 2</option>
-									</select>
-								</div>
-							</div>
-							<div class="my-5">
-								<label class="form-label fw-bold fs-4">Message</label>
-								<textarea class="form-control" placeholder="Enter your message" rows="5"></textarea>
-							</div>
-							<a href="#" class="btn btn-success">Make A Reservation</a>
-						</div>
-						<div class="col-md-6">
-							<img src="assets/media/img/gallery/25.png" class="mw-100" alt="" />
-						</div>
-					</div>
-				</div>
-				<!--end::Container-->
+			<div class="bg-white min-h-450px min-h-lg-600px">
+				
 			</div>
 			<!--end::Wrapper-->
 		</div>

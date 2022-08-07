@@ -19,16 +19,8 @@ License: For each use you must have a valid license purchased only from above li
 	<base href="">
 	<title>Sirah Pemali</title>
 	<meta charset="utf-8" />
-	<meta name="description" content="The most advanced Bootstrap Admin Theme on Themeforest trusted by 94,000 beginners and professionals. Multi-demo, Dark Mode, RTL support and complete React, Angular, Vue &amp; Laravel versions. Grab your copy now and get life-time updates for free." />
-	<meta name="keywords" content="Metronic, bootstrap, bootstrap 5, Angular, VueJs, React, Laravel, admin themes, web design, figma, web development, free templates, free admin themes, bootstrap theme, bootstrap template, bootstrap dashboard, bootstrap dak mode, bootstrap button, bootstrap datepicker, bootstrap timepicker, fullcalendar, datatables, flaticon" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Metronic - Bootstrap 5 HTML, VueJS, React, Angular &amp; Laravel Admin Dashboard Theme" />
-	<meta property="og:url" content="https://keenthemes.com/metronic" />
-	<meta property="og:site_name" content="Keenthemes | Metronic" />
-	<link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
-	<link rel="shortcut icon" href="assets/media/logos/facebook_icon-icons.com_53612.ico" />
+	<link rel="shortcut icon" href="assets/media/img/logo/logo1.svg" />
 	<!--begin::Fonts-->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
 	<!--end::Fonts-->
@@ -143,8 +135,8 @@ License: For each use you must have a valid license purchased only from above li
 			<div class="bg-white">
 				<!--begin::Container-->
 				<div class="container my-20">
-					<div class="d-flex flex-row gap-5">
-						<div>
+					<div class="row">
+						<div class="col-md-4">
 							<!--begin::Heading-->
 							<div class="text-start my-17">
 								<!--begin::Title-->
@@ -158,7 +150,9 @@ License: For each use you must have a valid license purchased only from above li
 							</div>
 							<!--end::Heading-->
 						</div>
-						<img src="assets/media/img/gallery/restaurant/1.png" class="mw-100 rounded-3" alt="" />
+						<div class="col-md-8">
+							<img src="assets/media/img/gallery/restaurant/1.png" class="mw-100 rounded-3" alt="" />
+						</div>
 					</div>
 				</div>
 				<!--end::Container-->
@@ -257,10 +251,12 @@ License: For each use you must have a valid license purchased only from above li
 			<div class="bg-white">
 				<!--begin::Container-->
 				<div class="container my-20">
-					<div class="d-flex flex-row justify-content-between">
-						<img src="assets/media/img/gallery/11.png" class="mw-50 rounded-3" alt="" />
+					<div class="row justify-content-between">
+						<div class="col-md-6 text-center mb-5">
+							<img src="assets/media/img/gallery/11.png" class="w-75 rounded-3" alt="" />
+						</div>
 						<!--begin::Heading-->
-						<div class="text-start my-17">
+						<div class="col-md-6 text-start">
 							<!--begin::Title-->
 							<div class="mb-10">
 								<h1 class="text-dark mb-5">Non-Coffee Drinks</h1>
@@ -314,9 +310,9 @@ License: For each use you must have a valid license purchased only from above li
 			<div class="bg-white">
 				<!--begin::Container-->
 				<div class="container my-20">
-					<div class="d-flex flex-row justify-content-between">
+					<div class="row justify-content-between">
 						<!--begin::Heading-->
-						<div class="text-start my-17">
+						<div class="col-md-6 text-start mb-5">
 							<!--begin::Title-->
 							<div class="mb-10">
 								<h1 class="text-dark mb-5">Juice</h1>
@@ -350,7 +346,9 @@ License: For each use you must have a valid license purchased only from above li
 
 							<!--end::Heading-->
 						</div>
-						<img src="assets/media/img/gallery/26.png" class="mw-50 rounded-3" alt="" />
+						<div class="col-md-6 text-center">
+							<img src="assets/media/img/gallery/26.png" class="w-75 rounded-3" alt="" />
+						</div>
 					</div>
 					<!--end::Container-->
 				</div>
@@ -365,10 +363,12 @@ License: For each use you must have a valid license purchased only from above li
 			<div class="bg-white">
 				<!--begin::Container-->
 				<div class="container my-20">
-					<div class="d-flex flex-row justify-content-between">
-						<img src="assets/media/img/gallery/12.png" class="mw-50 rounded-3" alt="" />
+					<div class="row justify-content-between">
+						<div class="col-md-6 text-center mb-5">
+							<img src="assets/media/img/gallery/12.png" class="w-75 rounded-3" alt="" />
+						</div>
 						<!--begin::Heading-->
-						<div class="text-start my-17">
+						<div class="col-md-6 text-start">
 							<!--begin::Title-->
 							<div class="mb-10">
 								<h1 class="text-dark mb-5">Snack</h1>

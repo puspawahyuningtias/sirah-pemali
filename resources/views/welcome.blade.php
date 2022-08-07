@@ -19,16 +19,8 @@ License: For each use you must have a valid license purchased only from above li
 	<base href="">
 	<title>Sirah Pemali</title>
 	<meta charset="utf-8" />
-	<meta name="description" content="The most advanced Bootstrap Admin Theme on Themeforest trusted by 94,000 beginners and professionals. Multi-demo, Dark Mode, RTL support and complete React, Angular, Vue &amp; Laravel versions. Grab your copy now and get life-time updates for free." />
-	<meta name="keywords" content="Metronic, bootstrap, bootstrap 5, Angular, VueJs, React, Laravel, admin themes, web design, figma, web development, free templates, free admin themes, bootstrap theme, bootstrap template, bootstrap dashboard, bootstrap dak mode, bootstrap button, bootstrap datepicker, bootstrap timepicker, fullcalendar, datatables, flaticon" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Metronic - Bootstrap 5 HTML, VueJS, React, Angular &amp; Laravel Admin Dashboard Theme" />
-	<meta property="og:url" content="https://keenthemes.com/metronic" />
-	<meta property="og:site_name" content="Keenthemes | Metronic" />
-	<link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
-	<link rel="shortcut icon" href="assets/media/logos/facebook_icon-icons.com_53612.ico" />
+	<link rel="shortcut icon" href="assets/media/img/logo/logo1.svg" />
 	<!--begin::Fonts-->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
 	<!--end::Fonts-->
@@ -379,10 +371,11 @@ License: For each use you must have a valid license purchased only from above li
 			<div class="pb-15 pt-18 bg-white">
 				<!--begin::Container-->
 				<div class="container my-20">
-					<div class="d-flex flex-row gap-5">
+					<div class="row">
+						<div class="col-md-6">
 						<img src="assets/media/img/gallery/home/icon/4.svg" class="mw-100 rounded-3" alt="" />
-
-						<div>
+						</div>
+						<div class="col-md-6">
 							<!--begin::Heading-->
 							<div class="text-start my-17">
 								<!--begin::Title-->
@@ -435,9 +428,9 @@ License: For each use you must have a valid license purchased only from above li
 				</div>
 				<!--end::Heading-->
 				<!--begin::Row-->
-				<div class="d-flex flex-column justify-content-between g-lg-10 mb-10 mb-lg-20 gap-10">
+				<div class="row justify-content-around">
 					<!--begin::Col-->
-					<div class="bg-white rounded px-5 py-10">
+					<div class="col-md-3 bg-white rounded py-10 px-5 mb-10">
 						<!--begin::Testimonial-->
 						<div class="d-flex flex-column justify-content-between h-lg-50 px-10 px-lg-0 pe-lg-10 mb-15 mb-lg-0">
 							<!--begin::Wrapper-->
@@ -486,7 +479,7 @@ License: For each use you must have a valid license purchased only from above li
 					</div>
 					<!--end::Col-->
 					<!--begin::Col-->
-					<div class="bg-white rounded px-5 py-10">
+					<div class="col-md-3 bg-white rounded py-10 px-5 mb-10">
 						<!--begin::Testimonial-->
 						<div class="d-flex flex-column justify-content-between h-lg-50 px-10 px-lg-0 pe-lg-10 mb-15 mb-lg-0">
 							<!--begin::Wrapper-->
@@ -535,7 +528,7 @@ License: For each use you must have a valid license purchased only from above li
 					</div>
 					<!--end::Col-->
 					<!--begin::Col-->
-					<div class="bg-white rounded px-5 py-10">
+					<div class="col-md-3 bg-white rounded py-10 px-5 mb-10">
 						<!--begin::Testimonial-->
 						<div class="d-flex flex-column justify-content-between h-lg-50 px-10 px-lg-0 pe-lg-10 mb-15 mb-lg-0">
 							<!--begin::Wrapper-->
@@ -586,9 +579,9 @@ License: For each use you must have a valid license purchased only from above li
 				</div>
 				<!--end::Row-->
 				<!--begin::Row-->
-				<div class="d-flex flex-column justify-content-between g-lg-10 mb-10 mb-lg-20 gap-10">
+				<div class="row  justify-content-around">
 					<!--begin::Col-->
-					<div class="bg-white rounded px-5 py-10">
+					<div class="col-md-3 bg-white rounded py-10 px-5 mb-10">
 						<!--begin::Testimonial-->
 						<div class="d-flex flex-column justify-content-between h-lg-50 px-10 px-lg-0 pe-lg-10 mb-15 mb-lg-0">
 							<!--begin::Wrapper-->
@@ -637,7 +630,7 @@ License: For each use you must have a valid license purchased only from above li
 					</div>
 					<!--end::Col-->
 					<!--begin::Col-->
-					<div class="bg-white rounded px-5 py-10">
+					<div class="col-md-3 bg-white rounded py-10 px-5 mb-10">
 						<!--begin::Testimonial-->
 						<div class="d-flex flex-column justify-content-between h-lg-50 px-10 px-lg-0 pe-lg-10 mb-15 mb-lg-0">
 							<!--begin::Wrapper-->
@@ -686,7 +679,7 @@ License: For each use you must have a valid license purchased only from above li
 					</div>
 					<!--end::Col-->
 					<!--begin::Col-->
-					<div class="bg-white rounded px-5 py-10">
+					<div class="col-md-3 bg-white rounded py-10 px-5 mb-10">
 						<!--begin::Testimonial-->
 						<div class="d-flex flex-column justify-content-between h-lg-50 px-10 px-lg-0 pe-lg-10 mb-15 mb-lg-0">
 							<!--begin::Wrapper-->

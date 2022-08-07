@@ -22,6 +22,9 @@ Route::get('/restaurant', function () {
 Route::get('/paket', function () {
     return view('paket');
 });
+Route::get('/berita', function () {
+    return view('berita');
+});
 Route::get('/contact', function () {
     return view('contact');
 });
