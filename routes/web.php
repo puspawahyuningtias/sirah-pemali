@@ -28,6 +28,6 @@ Route::get('/berita', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-Route::get('/Reservation', function () {
+Route::get('/reservation', function () {
     return view('reservation');
 });

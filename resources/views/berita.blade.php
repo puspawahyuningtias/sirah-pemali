@@ -97,7 +97,7 @@ License: For each use you must have a valid license purchased only from above li
 										<!--begin::Menu item-->
 										<div class="menu-item">
 											<!--begin::Menu link-->
-											<a class="menu-link nav-link active py-3 px-4 px-xxl-6" href="/berita">Berita</a>
+											<a class="menu-link nav-link active py-3 px-4 px-xxl-6" href="https://berita.sirahpemali.id/">Berita</a>
 											<!--end::Menu link-->
 										</div>
 										<!--end::Menu item-->
@@ -115,7 +115,7 @@ License: For each use you must have a valid license purchased only from above li
 							<!--end::Menu wrapper-->
 							<!--begin::Toolbar-->
 							<div class="flex-equal text-end ms-1">
-								<a href="Reservation" class="btn btn-primary">Reservasi</a>
+								<a href="/reservation" class="btn btn-primary">Reservasi</a>
 							</div>
 							<!--end::Toolbar-->
 						</div>
