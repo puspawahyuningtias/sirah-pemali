@@ -135,7 +135,7 @@ License: For each use you must have a valid license purchased only from above li
 			<div class="bg-white">
 				<!--begin::Container-->
 				<div class="container my-20">
-					<div class="row">
+					<div class="d-flex flex-row reverse">
 						<div class="col-md-6">
 							<!--begin::Heading-->
 							<div class="text-start my-17">

@@ -130,8 +130,7 @@ License: For each use you must have a valid license purchased only from above li
 					<div class="text-center mb-5 mb-lg-10 py-10 py-lg-20 transparent">
 						<!--begin::Title-->
 						<h1 class="text-white lh-base fw-bolder fs-2x fs-lg-3x mb-5">Wisata Alam Sirah Pemali</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non odio nam ut nunc. Pulvinar nulla mattis ac lacus.
-							Eget turpis at ac in ac luctus tellus tortor. Urna ornare gravida nunc sapien id nunc.</p>
+						<p>Jelajahi pengalamanmu berwisata di alam hutan pinus dan mata air sungai pemali yang dipadukan dengan berbagai fasilitas dan wahana yang akan membuatmu terkesan.</p>
 						<!--end::Title-->
 						<!--begin::Action-->
 						<a href="#" class="btn btn-primary">Reservasi</a>
