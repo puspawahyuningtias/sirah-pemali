@@ -194,7 +194,7 @@ License: For each use you must have a valid license purchased only from above li
 								<label class="form-label fw-bold fs-4">Message</label>
 								<textarea id="message" class="form-control" placeholder="Enter your message" rows="5"></textarea>
 							</div>
-							<button id="send" class="btn btn-success">Make A Reservation</button>
+							<button id="send" class="btn btn-success">Buat Reservasi</button>
 						</div>
 						<div class="col-md-6">
 							<img src="assets/media/img/gallery/25.png" class="mw-100" alt="" />

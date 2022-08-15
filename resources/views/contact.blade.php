@@ -190,7 +190,7 @@ License: For each use you must have a valid license purchased only from above li
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Jam Operasional</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Setiap Hari 08.00 - 20.00</div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Setiap Hari<br>08.00 - 20.00</div>
 							<!--begin::Position-->
 						</div>
 					</div>
@@ -205,7 +205,7 @@ License: For each use you must have a valid license purchased only from above li
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Email</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Sirah_Pemali@hello.com</div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">sirah.kalipemali@gmail.com</div>
 							<!--begin::Position-->
 						</div>
 					</div>
@@ -220,7 +220,7 @@ License: For each use you must have a valid license purchased only from above li
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Phone</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">+271 386-647-3637</div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">+62 823-1391-4809</div>
 							<!--begin::Position-->
 						</div>
 					</div>
@@ -240,38 +240,34 @@ License: For each use you must have a valid license purchased only from above li
 							<!--begin::Heading-->
 							<div class="text-start">
 								<!--begin::Title-->
-								<h1 class="text-dark mb-5">Any Inquirements?</h1>
+								<h1 class="text-dark mb-5">Ada Pertanyaan?</h1>
 								<!--end::Title-->
 								<!--begin::Sub-title-->
 								<div class="fs-5 text-muted fw-bold">
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+									<p>Hubungi kami untuk bantuan ataupun penawaran, tim kami yang ramah akan senang mendengar dari Anda</p>
 								</div>
 								<!--end::Sub-title=-->
 								<div class="row my-5">
 									<div class="col-md-6">
-										<label class="form-label fw-bold fs-4">First Name</label>
-										<input type="text" class="form-control" placeholder="Enter your first name" />
+										<label class="form-label fw-bold fs-4">Nama Depan</label>
+										<input type="text" class="form-control" placeholder="Masukan nama depan" />
 									</div>
 									<div class="col-md-6">
-										<label class="form-label fw-bold fs-4">First Name</label>
-										<input type="text" class="form-control" placeholder="Enter your last name" />
+										<label class="form-label fw-bold fs-4">Nama Belakang</label>
+										<input type="text" class="form-control" placeholder="Masukan nama belakang" />
 									</div>
 								</div>
 								<div class="row my-5">
 									<div class="col-md-6">
-										<label class="form-label fw-bold fs-4">Your Email</label>
-										<input type="text" class="form-control" placeholder="Enter your email" />
-									</div>
-									<div class="col-md-6">
-										<label class="form-label fw-bold fs-4">Subject</label>
-										<input type="text" class="form-control" placeholder="Enter Your Subject" />
+										<label class="form-label fw-bold fs-4">No WhatsApp</label>
+										<input type="text" class="form-control" placeholder="Masukan nomor whatsapp anda" />
 									</div>
 								</div>
 								<div class="my-5">
-									<label class="form-label fw-bold fs-4">Message</label>
-									<textarea class="form-control" placeholder="Enter your message" rows="5"></textarea>
+									<label class="form-label fw-bold fs-4">Pesan</label>
+									<textarea class="form-control" placeholder="Masukkan pesan anda" rows="5"></textarea>
 								</div>
-								<a href="#" class="btn btn-success">Send Message</a>
+								<a href="#" class="btn btn-success">Kirim Pesan</a>
 							</div>
 							<!--end::Heading-->
 						</div>

@@ -508,37 +508,37 @@ License: For each use you must have a valid license purchased only from above li
 					<!--end::Text-->
 				</div>
 				<!--end::Heading-->
-				<div class="row justify-content-center border">
+				<div class="row justify-content-center">
 					<div class="col-md-4">
-						<img src="assets/media/img/gallery/1.png" class="mb-9 rounded" alt="" />
+						<img src="assets/media/img/gallery/paket/1.png" class="mb-9 img-fluid rounded" alt="" />
 					</div>
 					<div class="col-md-4">
-						<img src="assets/media/img/gallery/2.png" class="mb-9 rounded" alt="" />
+						<img src="assets/media/img/gallery/paket/2.png" class="mb-9 img-fluid rounded" alt="" />
 					</div>
 					<div class="col-md-4">
-						<img src="assets/media/img/gallery/3.png" class="mb-9 rounded" alt="" />
-					</div>
-				</div>
-				<div class="row justify-content-center border">
-					<div class="col-md-4">
-						<img src="assets/media/img/gallery/4.png" class="mb-9 rounded" alt="" />
-					</div>
-					<div class="col-md-4">
-						<img src="assets/media/img/gallery/5.png" class="mb-9 rounded" alt="" />
-					</div>
-					<div class="col-md-4">
-						<img src="assets/media/img/gallery/6.png" class="mb-9 rounded" alt="" />
+						<img src="assets/media/img/gallery/paket/3.png" class="mb-9 img-fluid rounded" alt="" />
 					</div>
 				</div>
-				<div class="row justify-content-center border">
+				<div class="row justify-content-center">
 					<div class="col-md-4">
-						<img src="assets/media/img/gallery/1.png" class="mb-9 rounded" alt="" />
+						<img src="assets/media/img/gallery/paket/4.png" class="mb-9 img-fluid rounded" alt="" />
 					</div>
 					<div class="col-md-4">
-						<img src="assets/media/img/gallery/1.png" class="mb-9 rounded" alt="" />
+						<img src="assets/media/img/gallery/paket/5.png" class="mb-9 img-fluid rounded" alt="" />
 					</div>
 					<div class="col-md-4">
-						<img src="assets/media/img/gallery/1.png" class="mb-9 rounded" alt="" />
+						<img src="assets/media/img/gallery/paket/6.png" class="mb-9 img-fluid rounded" alt="" />
+					</div>
+				</div>
+				<div class="row justify-content-center">
+					<div class="col-md-4">
+						<img src="assets/media/img/gallery/paket/7.png" class="mb-9 img-fluid rounded" alt="" />
+					</div>
+					<div class="col-md-4">
+						<img src="assets/media/img/gallery/paket/8.png" class="mb-9 img-fluid rounded" alt="" />
+					</div>
+					<div class="col-md-4">
+						<img src="assets/media/img/gallery/paket/9.png" class="mb-9 img-fluid rounded" alt="" />
 					</div>
 				</div>
 			</div>

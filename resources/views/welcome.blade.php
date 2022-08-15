@@ -217,7 +217,7 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/4.png" class="mb-5 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/5.png" class="mb-5 rounded" alt="" />
 							<!--end::Illustration-->
 							<!--begin::Name-->
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Hutan Pinus</a>
@@ -234,7 +234,7 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/5.png" class="mb-5 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/6.png" class="mb-5 rounded" alt="" />
 							<!--end::Illustration-->
 							<!--begin::Name-->
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Mata air, Kolam Renang dan Danau Sirah Pemali</a>
@@ -251,7 +251,7 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/6.png" class="mb-5 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/7.png" class="mb-5 rounded" alt="" />
 							<!--end::Illustration-->
 							<!--begin::Name-->
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Camping Ground dan Outbond</a>
@@ -268,13 +268,13 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/6.png" class="mb-5 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/8.png" class="mb-5 rounded" alt="" />
 							<!--end::Illustration-->
 							<!--begin::Name-->
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Restaurant & Cafe</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Nikmati camp dan fun outbond bersama rekan-rekan terdekat di hutan pinus dengan fasilitas lengkap serta instruktur yang handal yang akan membuatmu selalu ingin kembali lagi</div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Pines cafe di sirah pemali menyediakan aneka menu mulai dari makanan ringan, makanan inti, coffee, dan macam-macam minuman non coffee</div>
 							<!--begin::Position-->
 						</div>
 						<!--end::Story-->
@@ -285,13 +285,13 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/6.png" class="mb-5 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/9.png" class="mb-5 rounded" alt="" />
 							<!--end::Illustration-->
 							<!--begin::Name-->
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Farm House</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Nikmati camp dan fun outbond bersama rekan-rekan terdekat di hutan pinus dengan fasilitas lengkap serta instruktur yang handal yang akan membuatmu selalu ingin kembali lagi</div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Memberikan kesenangan lebih kepada anak-anak, wisata sambil merasakan keseruan memberi makan kelinci</div>
 							<!--begin::Position-->
 						</div>
 						<!--end::Story-->
@@ -302,13 +302,13 @@ License: For each use you must have a valid license purchased only from above li
 						<!--begin::Story-->
 						<div class="mb-10 mb-md-0">
 							<!--begin::Illustration-->
-							<img src="assets/media/img/gallery/6.png" class="mb-5 rounded" alt="" />
+							<img src="assets/media/img/gallery/home/10.png" class="mb-5 rounded" alt="" />
 							<!--end::Illustration-->
 							<!--begin::Name-->
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Karaoke</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Nikmati camp dan fun outbond bersama rekan-rekan terdekat di hutan pinus dengan fasilitas lengkap serta instruktur yang handal yang akan membuatmu selalu ingin kembali lagi</div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Tak hanya hiburan untuk anak-anak, wanawisata sirah pemali juga menyediakan hiburan karaoke yang dapat dinikmati oleh remaja dan dewasa</div>
 							<!--begin::Position-->
 						</div>
 						<!--end::Story-->

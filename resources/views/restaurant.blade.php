@@ -170,7 +170,7 @@ License: For each use you must have a valid license purchased only from above li
 					<h3 class="fs-2hx text-dark mb-5" id="how-it-works" data-kt-scroll-offset="{default: 100, lg: 150}">Special Coffee Menu</h3>
 					<!--end::Title-->
 					<!--begin::Text-->
-					<div class="fs-5 text-muted fw-bold">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</div>
+					<div class="fs-5 text-muted fw-bold">Menu kopi yang tersedia di pines cafe bermacam-macam mulai dari kopi arabica hingga kopi instan </div>
 					<!--end::Text-->
 				</div>
 				<!--end::Heading-->
@@ -293,7 +293,7 @@ License: For each use you must have a valid license purchased only from above li
 							<!--begin::Title-->
 							<div class="mb-10">
 								<h1 class="text-dark mb-5">Non-Coffee Drinks</h1>
-								<p class="text-muted fs-7">Amet minim mollit non deserunt ullamco est sit aliqua dolordo amet sint.<br /> Velit officia consequat duis enim velit mollit.</p>
+								<p class="text-muted fs-7">Selain menu kopi pines cafe juga menyediakan minuman no kopi yang segar, dingin dan hangat.</p>
 							</div>
 							<!--end::Title-->
 							<div class="table-responsive">
@@ -376,7 +376,7 @@ License: For each use you must have a valid license purchased only from above li
 							<!--begin::Title-->
 							<div class="mb-10">
 								<h1 class="text-dark mb-5">Juice</h1>
-								<p class="text-muted fs-7">Amet minim mollit non deserunt ullamco est sit aliqua dolordo amet sint.<br /> Velit officia consequat duis enim velit mollit.</p>
+								<p class="text-muted fs-7">Pines cafe juga menyediakan aneke jus buah yang segar.</p>
 							</div>
 							<!--end::Title-->
 
@@ -453,7 +453,7 @@ License: For each use you must have a valid license purchased only from above li
 							<!--begin::Title-->
 							<div class="mb-10">
 								<h1 class="text-dark mb-5">Snack</h1>
-								<p class="text-muted fs-7">Amet minim mollit non deserunt ullamco est sit aliqua dolordo amet sint.<br /> Velit officia consequat duis enim velit mollit.</p>
+								<p class="text-muted fs-7">Mau nongkrong tapi tidak ingin makan berat? pines cafe menyediakan aneka makanan ringan yang lezat.</p>
 							</div>
 							<!--end::Title-->
 							<div class="table-responsive">
@@ -538,7 +538,7 @@ License: For each use you must have a valid license purchased only from above li
 					<h3 class="fs-2hx text-dark mb-5" id="how-it-works" data-kt-scroll-offset="{default: 100, lg: 150}">Makanan Utama</h3>
 					<!--end::Title-->
 					<!--begin::Text-->
-					<div class="fs-5 text-muted fw-bold">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</div>
+					<div class="fs-5 text-muted fw-bold">Berbagai macam makanan utama yang cocok dimakan bersama dengan keluarga maupun teman.</div>
 					<!--end::Text-->
 				</div>
 				<!--end::Heading-->
