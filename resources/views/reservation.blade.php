@@ -28,6 +28,7 @@ License: For each use you must have a valid license purchased only from above li
 	<link href="assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
 	<link href="assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
 	<link href="assets/css/myStyle.css" rel="stylesheet" type="text/css" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<!--end::Global Stylesheets Bundle-->
 </head>
 <!--end::Head-->
@@ -149,33 +150,43 @@ License: For each use you must have a valid license purchased only from above li
 							<div class="row my-5">
 								<div class="col-md-6">
 									<label class="form-label fw-bold fs-4">Nama</label>
-									<input id="name" type="text" class="form-control" placeholder="Enter your first name" />
+									<input id="name" type="text" class="form-control" placeholder="Masukan nama anda"/>
 								</div>
 								<div class="col-md-6">
 									<label class="form-label fw-bold fs-4">Tanggal</label>
-									<input id="date" type="date" class="form-control" placeholder="Enter your last name" />
+									<input id="date" type="date" class="form-control" placeholder="Pilih tanggal reservasi "/>
 								</div>
 							</div>
 							<div class="row my-5">
 								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Your Email</label>
-									<input id="email" type="text" class="form-control" placeholder="Enter your email" />
+									<label class="form-label fw-bold fs-4">Email</label>
+									<input id="email" type="text" class="form-control" placeholder="Masukan email anda" />
 								</div>
 								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Time</label>
-									<input id="time" type="time" class="form-control" placeholder="Enter Your Subject" />
+									<label class="form-label fw-bold fs-4">Jam Reservasi</label>
+									<input id="time" type="time" class="form-control" placeholder="Enter Your Subject"/>
 								</div>
 							</div>
 							<div class="row my-5">
 								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Phone</label>
-									<input id="phone" type="text" class="form-control" placeholder="Enter your phone" />
+									<label class="form-label fw-bold fs-4">Nomor WhatsApp</label>
+									<input id="phone" type="text" class="form-control" placeholder="Masukan nomor whatsapp"/>
 								</div>
 								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Reservation Type</label>
+									<label class="form-label fw-bold fs-4">Tipe Reservasi</label>
 									<select id="type" class="form-control">
-										<option hidden>Select Type</option>
-										<option>Type 1</option>
+										<option hidden>Pilih tipe reservasi</option>
+										<option>Kunjungan Rombongan</option>
+										<option>Camping</option>
+										<option>Cafe</option>
+										<option>Archery Outbound</option>
+										<option>Field Trip Program</option>
+										<option>ShareLock Home</option>
+										<option>Little Farmer</option>
+										<option>Rafting Program</option>
+										<option>Paint Ball Program</option>
+										<option>Chalenges Program</option>
+										<option>Bambu Raft</option>
 									</select>
 								</div>
 							</div>
@@ -183,7 +194,7 @@ License: For each use you must have a valid license purchased only from above li
 								<label class="form-label fw-bold fs-4">Message</label>
 								<textarea id="message" class="form-control" placeholder="Enter your message" rows="5"></textarea>
 							</div>
-							<a id="send" href="#" class="btn btn-success">Make A Reservation</a>
+							<button id="send" class="btn btn-success">Make A Reservation</button>
 						</div>
 						<div class="col-md-6">
 							<img src="assets/media/img/gallery/25.png" class="mw-100" alt="" />
@@ -306,7 +317,7 @@ License: For each use you must have a valid license purchased only from above li
 		<script src="assets/js/custom/landing.js"></script>
 		<script src="assets/js/custom/pages/company/pricing.js"></script>
 		<!--end::Page Custom Javascript-->
-
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 		<script>
 			$(function() {
@@ -318,7 +329,8 @@ License: For each use you must have a valid license purchased only from above li
 					var phone = $('#phone').val()
 					var type = $('#type').val()
 					var message = $('#message').val()
-					window.location.href = 'https://wa.me/6282313914809?text=Hello,%20I%20am%20' + name + dateFormat.format(date) + time + type
+					window.location.href = 'https://wa.me/6282313914809?text=Halo%20kak%20,%20saya%20atas%20nama%20'+name+'%20ingin%20melakukan%20reservasi%20'+type+',%20untuk%20'+date+',%20pada%20jam%20'+time+'%0AKet%20:%20'+ message
+					// window.location.href='https://wa.me/6282313914809?text=Hello,%20I%20am%20'+ name + '%20and%20I%20wanted%20to%20know%20more%20about%20Fitness%20Plus%20Indonesia.%20Would%20You%20mind%20to%20assist%20me.'
 				})
 			})
 		</script>

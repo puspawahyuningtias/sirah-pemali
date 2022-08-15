@@ -175,68 +175,101 @@ License: For each use you must have a valid license purchased only from above li
 				</div>
 				<!--end::Heading-->
 				<img src="assets/media/img/gallery/10.png" class="mw-100 rounded-3" alt="" />
-
-				<div class="row justify-content-around">
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<p style="color: #767676;">Menu</p>
-							<p style="color: #767676;">Hot</p>
-							<p style="color: #767676;">Ice</p>
+				<div class="row justify-content-around items-center gap-5">
+					<div class="col-md-5">
+						<div class="table-responsive">
+							<table class="table">
+								<thead>
+									<tr style="color: #767676;">
+										<th class="text-start">Menu</th>
+										<th>Hot</th>
+										<th>Ice</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>
+											<h1 class="text-start">Arabica</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 20K</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">-</h1>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<h1 class="text-start">Robusta</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 13K</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">-</h1>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<h1 class="text-start">Kopi Hitam</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 5K</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">-</h1>
+										</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<p style="color: #767676;">Menu</p>
-							<p style="color: #767676;">Hot</p>
-							<p style="color: #767676;">Ice</p>
-						</div>
-					</div>
-				</div>
-				<div class="row justify-content-around">
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Arabica</h1>
-							<h1 class="text-primary">Rp 20K</h1>
-							<h1 class="text-primary">-</h1>
-						</div>
-					</div>
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>White Coffe</h1>
-							<h1 class="text-primary">Rp 5K</h1>
-							<h1 class="text-primary">Rp 8K</h1>
-						</div>
-					</div>
-				</div>
-				<div class="row justify-content-around">
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Robusta</h1>
-							<h1 class="text-primary">Rp 13K</h1>
-							<h1 class="text-primary">-</h1>
-						</div>
-					</div>
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Good Day</h1>
-							<h1 class="text-primary">Rp 5K</h1>
-							<h1 class="text-primary">Rp 8K</h1>
-						</div>
-					</div>
-				</div>
-				<div class="row justify-content-around">
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Kopi Hitam</h1>
-							<h1 class="text-primary">Rp 5K</h1>
-							<h1 class="text-primary">-</h1>
-						</div>
-					</div>
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Coffeemix</h1>
-							<h1 class="text-primary">Rp 5K</h1>
-							<h1 class="text-primary">Rp 8K</h1>
+					<div class="col-md-5">
+						<div class="table-responsive">
+							<table class="table">
+								<thead>
+									<tr style="color: #767676;">
+										<th class="text-start">Menu</th>
+										<th>Hot</th>
+										<th>Ice</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>
+											<h1 class="text-start">White Coffe</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 5K</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 8K</h1>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<h1 class="text-start">Good Day</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 5K</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 8K</h1>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<h1 class="text-start">Coffeemix</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 5K</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 8K</h1>
+										</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
 				</div>
@@ -263,36 +296,63 @@ License: For each use you must have a valid license purchased only from above li
 								<p class="text-muted fs-7">Amet minim mollit non deserunt ullamco est sit aliqua dolordo amet sint.<br /> Velit officia consequat duis enim velit mollit.</p>
 							</div>
 							<!--end::Title-->
-							<!--begin::Sub-title-->
-							<div class="d-flex flex-column gap-10">
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<p style="color: #767676;">Menu</p>
-									<p style="color: #767676;">Hot</p>
-									<p style="color: #767676;">Ice</p>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Teh Manis</h1>
-									<h1 class="text-primary">Rp 3K</h1>
-									<h1 class="text-primary">Rp 5K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Lemon Tea</h1>
-									<h1 class="text-primary">Rp 7K</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Coklat</h1>
-									<h1 class="text-primary">Rp 5K</h1>
-									<h1 class="text-primary">Rp 8K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Air Mineral</h1>
-									<h1 class="text-primary">Rp 5K</h1>
-									<h1 class="text-primary">Rp 5K</h1>
-								</div>
+							<div class="table-responsive">
+								<table class="table">
+									<thead>
+										<tr style="color: #767676;">
+											<th class="text-start">Menu</th>
+											<th>Hot</th>
+											<th>Ice</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>
+												<h1 class="text-start">Teh Manis</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 3K</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 5K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Lemon Tea</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 7K</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Coklat</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 5K</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 8K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Air Mineral</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 5K</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 5K</h1>
+											</td>
+										</tr>
+									</tbody>
+								</table>
 							</div>
-							<!--end::Sub-title=-->
-
 							<!--end::Heading-->
 						</div>
 					</div>
@@ -319,30 +379,51 @@ License: For each use you must have a valid license purchased only from above li
 								<p class="text-muted fs-7">Amet minim mollit non deserunt ullamco est sit aliqua dolordo amet sint.<br /> Velit officia consequat duis enim velit mollit.</p>
 							</div>
 							<!--end::Title-->
-							<!--begin::Sub-title-->
-							<div class="d-flex flex-column gap-10">
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<p style="color: #767676;">Menu</p>
-									<p style="color: #767676;">Price</p>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Jus Alpukat</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Jus Tomat</h1>
-									<h1 class="text-primary">Rp 8K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Jus Melon</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Jus Jambu</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
+
+							<div class="table-responsive">
+								<table class="table">
+									<thead>
+										<tr style="color: #767676;">
+											<th class="text-start">Menu</th>
+											<th>Price</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>
+												<h1 class="text-start">Jus Alpukat</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Jus Tomat</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 8K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Jus Melon</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Jus Jambu</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+									</tbody>
+								</table>
 							</div>
-							<!--end::Sub-title=-->
 
 							<!--end::Heading-->
 						</div>
@@ -375,38 +456,66 @@ License: For each use you must have a valid license purchased only from above li
 								<p class="text-muted fs-7">Amet minim mollit non deserunt ullamco est sit aliqua dolordo amet sint.<br /> Velit officia consequat duis enim velit mollit.</p>
 							</div>
 							<!--end::Title-->
-							<!--begin::Sub-title-->
-							<div class="d-flex flex-column gap-10">
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<p style="color: #767676;">Menu</p>
-									<p style="color: #767676;">Price</p>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Batagor BDG</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Pisang Keju Coklat</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Stick Kentang</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Kentang Goreng</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Mendoan</h1>
-									<h1 class="text-primary">Rp 8K</h1>
-								</div>
-								<div class="d-flex flex-row justify-content-between gap-10 text-start">
-									<h1>Roti Bakar</h1>
-									<h1 class="text-primary">Rp 10K</h1>
-								</div>
+							<div class="table-responsive">
+								<table class="table">
+									<thead>
+										<tr style="color: #767676;">
+											<th class="text-start">Menu</th>
+											<th>Price</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>
+												<h1 class="text-start">Batagor BDG</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Pisang Keju Coklat</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Stick Kentang</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Kentang Goreng</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Mendoan</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 8K</h1>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<h1 class="text-start">Roti Bakar</h1>
+											</td>
+											<td>
+												<h1 class="text-primary">Rp 10K</h1>
+											</td>
+										</tr>
+									</tbody>
+								</table>
 							</div>
-							<!--end::Sub-title=-->
 
 							<!--end::Heading-->
 						</div>
@@ -435,58 +544,77 @@ License: For each use you must have a valid license purchased only from above li
 				<!--end::Heading-->
 				<img src="assets/media/img/gallery/13.png" class="mw-100 rounded-3" alt="" />
 
-				<div class="row justify-content-around">
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<p style="color: #767676;">Menu</p>
-							<p style="color: #767676;">Price</p>
+				<div class="row justify-content-around items-center gap-5">
+					<div class="col-md-5">
+						<div class="table-responsive">
+							<table class="table">
+								<thead>
+									<tr style="color: #767676;">
+										<th class="text-start">Menu</th>
+										<th>Price</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>
+											<h1 class="text-start">Nasi Goreng</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 15K</h1>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<h1 class="text-start">Mie Goreng</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 15K</h1>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<h1 class="text-start">Mie Rebus</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 14K</h1>
+										</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<p style="color: #767676;">Menu</p>
-							<p style="color: #767676;">Price</p>
+					<div class="col-md-5">
+						<div class="table-responsive">
+							<table class="table">
+								<thead>
+									<tr style="color: #767676;">
+										<th class="text-start">Menu</th>
+										<th>Price</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>
+											<h1 class="text-start">Nasi Ayam Goreng Sambal Terasi/Ijo</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 17K</h1>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<h1 class="text-start">Nasi Ayam Bakar Sambal Terasi/Ijo</h1>
+										</td>
+										<td>
+											<h1 class="text-primary">Rp 17K</h1>
+										</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
 				</div>
-				<div class="row justify-content-around">
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Nasi Goreng</h1>
-							<h1 class="text-primary">Rp 15K</h1>
-						</div>
-					</div>
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Nasi Ayam Goreng Sambal Terasi/Ijo</h1>
-							<h1 class="text-primary">Rp 17K</h1>
-						</div>
-					</div>
-				</div>
-				<div class="row justify-content-around">
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Mi Goreng</h1>
-							<h1 class="text-primary">Rp 15K</h1>
-						</div>
-					</div>
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Nasi Ayam Bakar Sambal Terasi/Ijo</h1>
-							<h1 class="text-primary">Rp 17KK</h1>
-						</div>
-					</div>
-				</div>
-				<div class="row justify-content-around">
-					<div class="col-md-5 my-5">
-						<div class="d-flex flex-row justify-content-between text-start">
-							<h1>Mie Rebus</h1>
-							<h1 class="text-primary">Rp 14K</h1>
-						</div>
-					</div>
-					<div class="col-md-5 my-5">
-					</div>
-				</div>
+
 			</div>
 			<!--end::Container-->
 		</div>

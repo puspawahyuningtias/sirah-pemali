@@ -133,7 +133,7 @@ License: For each use you must have a valid license purchased only from above li
 						<p>Jelajahi pengalamanmu berwisata di alam hutan pinus dan mata air sungai pemali yang dipadukan dengan berbagai fasilitas dan wahana yang akan membuatmu terkesan.</p>
 						<!--end::Title-->
 						<!--begin::Action-->
-						<a href="#" class="btn btn-primary">Reservasi</a>
+						<a href="/reservasi" class="btn btn-primary">Reservasi</a>
 						<!--end::Action-->
 					</div>
 					<!--end::Heading-->
@@ -153,7 +153,7 @@ License: For each use you must have a valid license purchased only from above li
 					<h3 class="fs-2hx text-dark mb-5" id="how-it-works" data-kt-scroll-offset="{default: 100, lg: 150}">Jelajahi wisata baru dengan<br>pemandangan alam yang eksotis</h3>
 					<!--end::Title-->
 					<!--begin::Text-->
-					<div class="fs-5 text-muted fw-bold">Jelajahi dunia baru dengan keindahan alam yang indah.</div>
+					<div class="fs-5 text-muted fw-bold">Rasakan sensasi wisata dengan keindahan alam yang indah.</div>
 					<!--end::Text-->
 				</div>
 				<!--end::Heading-->
@@ -211,7 +211,7 @@ License: For each use you must have a valid license purchased only from above li
 				</div>
 				<!--end::Heading-->
 				<!--begin::Row-->
-				<div class="row w-100 gy-10 mb-md-20 align-items-center">
+				<div class="row w-100 gy-10 mb-md-20 align-items-start">
 					<!--begin::Col-->
 					<div class="col-md-4 px-5">
 						<!--begin::Story-->
@@ -223,7 +223,7 @@ License: For each use you must have a valid license purchased only from above li
 							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Hutan Pinus</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor, faucibus dolor massa feugiat iaculis. </div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Suasana hutan pinus yang asri seluas 21 hektar yang terdapat danau dan sumber mata air sungai Pemali yang membelah pulau jawa bagian tengah</div>
 							<!--begin::Position-->
 						</div>
 						<!--end::Story-->
@@ -237,10 +237,10 @@ License: For each use you must have a valid license purchased only from above li
 							<img src="assets/media/img/gallery/5.png" class="mb-5 rounded" alt="" />
 							<!--end::Illustration-->
 							<!--begin::Name-->
-							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Hutan Pinus</a>
+							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Mata air, Kolam Renang dan Danau Sirah Pemali</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor, faucibus dolor massa feugiat iaculis. </div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Terdapat 5 sumber mata air yang terus mangalir dan terjaga keasriannya, dan kamu dapat menikmati segarnya mata air dengan wahana kolam renang serta menikmati ribuan ikan di danau Sirah Pemali</div>
 							<!--begin::Position-->
 						</div>
 						<!--end::Story-->
@@ -254,10 +254,61 @@ License: For each use you must have a valid license purchased only from above li
 							<img src="assets/media/img/gallery/6.png" class="mb-5 rounded" alt="" />
 							<!--end::Illustration-->
 							<!--begin::Name-->
-							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Hutan Pinus</a>
+							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Wisata Camping Ground dan Outbond</a>
 							<!--end::Name-->
 							<!--begin::Position-->
-							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor, faucibus dolor massa feugiat iaculis. </div>
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Nikmati camp dan fun outbond bersama rekan-rekan terdekat di hutan pinus dengan fasilitas lengkap serta instruktur yang handal yang akan membuatmu selalu ingin kembali lagi</div>
+							<!--begin::Position-->
+						</div>
+						<!--end::Story-->
+					</div>
+					<!--end::Col-->
+					<!--begin::Col-->
+					<div class="col-md-4 px-5">
+						<!--begin::Story-->
+						<div class="mb-10 mb-md-0">
+							<!--begin::Illustration-->
+							<img src="assets/media/img/gallery/6.png" class="mb-5 rounded" alt="" />
+							<!--end::Illustration-->
+							<!--begin::Name-->
+							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Restaurant & Cafe</a>
+							<!--end::Name-->
+							<!--begin::Position-->
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Nikmati camp dan fun outbond bersama rekan-rekan terdekat di hutan pinus dengan fasilitas lengkap serta instruktur yang handal yang akan membuatmu selalu ingin kembali lagi</div>
+							<!--begin::Position-->
+						</div>
+						<!--end::Story-->
+					</div>
+					<!--end::Col-->
+					<!--begin::Col-->
+					<div class="col-md-4 px-5">
+						<!--begin::Story-->
+						<div class="mb-10 mb-md-0">
+							<!--begin::Illustration-->
+							<img src="assets/media/img/gallery/6.png" class="mb-5 rounded" alt="" />
+							<!--end::Illustration-->
+							<!--begin::Name-->
+							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Farm House</a>
+							<!--end::Name-->
+							<!--begin::Position-->
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Nikmati camp dan fun outbond bersama rekan-rekan terdekat di hutan pinus dengan fasilitas lengkap serta instruktur yang handal yang akan membuatmu selalu ingin kembali lagi</div>
+							<!--begin::Position-->
+						</div>
+						<!--end::Story-->
+					</div>
+					<!--end::Col-->
+					<!--begin::Col-->
+					<div class="col-md-4 px-5">
+						<!--begin::Story-->
+						<div class="mb-10 mb-md-0">
+							<!--begin::Illustration-->
+							<img src="assets/media/img/gallery/6.png" class="mb-5 rounded" alt="" />
+							<!--end::Illustration-->
+							<!--begin::Name-->
+							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Karaoke</a>
+							<!--end::Name-->
+							<!--begin::Position-->
+							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Nikmati camp dan fun outbond bersama rekan-rekan terdekat di hutan pinus dengan fasilitas lengkap serta instruktur yang handal yang akan membuatmu selalu ingin kembali lagi</div>
 							<!--begin::Position-->
 						</div>
 						<!--end::Story-->

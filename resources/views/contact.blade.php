@@ -187,7 +187,7 @@ License: For each use you must have a valid license purchased only from above li
 						<!--end::Illustration-->
 						<div class="mt-10">
 							<!--begin::Name-->
-							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Open</a>
+							<a href="#" class="text-dark fw-bolder text-hover-primary fs-3">Jam Operasional</a>
 							<!--end::Name-->
 							<!--begin::Position-->
 							<div class="text-muted fs-7 fw-bold mt-1 lh-lg">Setiap Hari 08.00 - 20.00</div>
