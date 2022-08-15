@@ -148,43 +148,42 @@ License: For each use you must have a valid license purchased only from above li
 						<div class="col-md-6 mb-5">
 							<div class="row my-5">
 								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Your Name</label>
-									<input type="text" class="form-control" placeholder="Enter your name" />
+									<label class="form-label fw-bold fs-4">Nama</label>
+									<input id="name" type="text" class="form-control" placeholder="Enter your first name" />
 								</div>
 								<div class="col-md-6">
-									<label class="form-label fw-bold fs-4">Date</label>
-									<input type="date" class="form-control" />
+									<label class="form-label fw-bold fs-4">Tanggal</label>
+									<input id="date" type="date" class="form-control" placeholder="Enter your last name" />
 								</div>
 							</div>
 							<div class="row my-5">
 								<div class="col-md-6">
 									<label class="form-label fw-bold fs-4">Your Email</label>
-									<input type="text" class="form-control" placeholder="Enter your email" />
+									<input id="email" type="text" class="form-control" placeholder="Enter your email" />
 								</div>
 								<div class="col-md-6">
 									<label class="form-label fw-bold fs-4">Time</label>
-									<input type="time" class="form-control" />
+									<input id="time" type="time" class="form-control" placeholder="Enter Your Subject" />
 								</div>
 							</div>
 							<div class="row my-5">
 								<div class="col-md-6">
 									<label class="form-label fw-bold fs-4">Phone</label>
-									<input type="text" class="form-control" placeholder="Enter your email" />
+									<input id="phone" type="text" class="form-control" placeholder="Enter your phone" />
 								</div>
 								<div class="col-md-6">
 									<label class="form-label fw-bold fs-4">Reservation Type</label>
-									<select class="form-select" data-control="select2" data-placeholder="Select an option" data-hide-search="true">
-										<option></option>
-										<option value="1">Option 1</option>
-										<option value="2">Option 2</option>
+									<select id="type" class="form-control">
+										<option hidden>Select Type</option>
+										<option>Type 1</option>
 									</select>
 								</div>
 							</div>
 							<div class="my-5">
 								<label class="form-label fw-bold fs-4">Message</label>
-								<textarea class="form-control" placeholder="Enter your message" rows="5"></textarea>
+								<textarea id="message" class="form-control" placeholder="Enter your message" rows="5"></textarea>
 							</div>
-							<a href="#" class="btn btn-success">Make A Reservation</a>
+							<a id="send" href="#" class="btn btn-success">Make A Reservation</a>
 						</div>
 						<div class="col-md-6">
 							<img src="assets/media/img/gallery/25.png" class="mw-100" alt="" />
@@ -307,6 +306,22 @@ License: For each use you must have a valid license purchased only from above li
 		<script src="assets/js/custom/landing.js"></script>
 		<script src="assets/js/custom/pages/company/pricing.js"></script>
 		<!--end::Page Custom Javascript-->
+
+
+		<script>
+			$(function() {
+				$('#send').click(function() {
+					var name = $('#name').val()
+					var date = $('#date').val()
+					var email = $('#email').val()
+					var time = $('#time').val()
+					var phone = $('#phone').val()
+					var type = $('#type').val()
+					var message = $('#message').val()
+					window.location.href = 'https://wa.me/6282313914809?text=Hello,%20I%20am%20' + name + dateFormat.format(date) + time + type
+				})
+			})
+		</script>
 		<!--end::Javascript-->
 </body>
 <!--end::Body-->
