@@ -273,58 +273,205 @@ License: For each use you must have a valid license purchased only from above li
 					<!--end::Text-->
 				</div>
 				<!--end::Heading-->
-				<div class="row justify-content-center">
+				<div class="tns tns-default">
+				<div data-tns="true" data-tns-loop="true" data-tns-swipe-angle="false" data-tns-speed="2000" data-tns-autoplay="true" data-tns-autoplay-timeout="18000" data-tns-controls="true" data-tns-nav="false" data-tns-items="3" data-tns-center="false" data-tns-dots="false" data-tns-prev-button="#kt_team_slider_prev2" data-tns-next-button="#kt_team_slider_next2">
 					<!--begin::Item-->
-					<div class="col-md-3 text-center px-20 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
-						<h1 class="text-white">Standart</h1>
-						<p>Paket Camping Aja</p>
-						<h1 class="fs-2hx text-white">Rp 89K</h1>
+					<div class="text-center px-6 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
+						<h1 class="text-white">Archery Outbound</h1>
+						<p class="text-muted">Program untuk menigkatkan daya fokus melalui permainan daya fokus panah memanah</p>
+						<h1 class="fs-2hx text-white">Rp 150K/pax</h1>
 						<div>
-							<ul class="text-start">
-								<li class="">An item</li>
-								<li class="">A second item</li>
-								<li class="">A third item</li>
-								<li class="">A fourth item</li>
-								<li class="">And a fifth one</li>
+							<ul class="text-start text-muted">
+								<li class="">Ice Breaking (5 games)</li>
+								<li class="">Fun Game (4 games)</li>
+								<li class="">Competition Game (3 Games)</li>
+								<li class="">Warrior Archery</li>
+								<li class="">Makan 1x, Snack</li>
+								<li>Sertificate</li>
+								<li>Clear Area Outbound</li>
+								<li>Tool Activities</li>
+								<li>Duration Game : 5 Hours</li>
+								<li>Brief Motivation</li>
 							</ul>
 						</div>
-						<a href="#" class="btn btn-outline btn-outline-white btn-active-light-white">Primary</a>
+						<a href="#" class="text-uppercase btn btn-outline btn-outline-white btn-active-light-white">Book Now</a>
 					</div>
 					<!--end::Item-->
 					<!--begin::Item-->
-					<div class="col-md-3 text-center px-20 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
-						<h1 class="text-white">Standart</h1>
-						<p>Paket Camping Aja</p>
-						<h1 class="fs-2hx text-white">Rp 89K</h1>
+					<div class="text-center px-6 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
+						<h1 class="text-white">Field Trip Program</h1>
+						<p class="text-muted">Program untuk explorasi keahlian profesi dengan melihat dan mengamati sebuah proses dan pengolahan alam sekitar</p>
+						<h1 class="fs-2hx text-white">Rp 125K/pax</h1>
 						<div>
-							<ul class="text-start">
-								<li class="">An item</li>
-								<li class="">A second item</li>
-								<li class="">A third item</li>
-								<li class="">A fourth item</li>
-								<li class="">And a fifth one</li>
+							<ul class="text-start text-muted">
+								<li class="">Ice Breaking (5 games)</li>
+								<li class="">Fun Game (4 games)</li>
+								<li class="">Competition Game (3 Games)</li>
+								<li class="">Trip Education (3 Lokasi)</li>
+								<li class="">Makan 1x, Snack</li>
+								<li>Sertificate</li>
+								<li>Asuransi Perjalanan</li>
+								<li>Tool Activities</li>
+								<li>Duration Game : 7 Hours</li>
+								<li>Brief Motivation</li>
 							</ul>
 						</div>
-						<a href="#" class="btn btn-outline btn-outline-white btn-active-light-white">Primary</a>
+						<a href="#" class="text-uppercase btn btn-outline btn-outline-white btn-active-light-white">Book Now</a>
 					</div>
 					<!--end::Item-->
 					<!--begin::Item-->
-					<div class="col-md-3 text-center px-20 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
-						<h1 class="text-white">Standart</h1>
-						<p>Paket Camping Aja</p>
-						<h1 class="fs-2hx text-white">Rp 89K</h1>
+					<div class="text-center px-6 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
+						<h1 class="text-white">ShareLock Home</h1>
+						<p class="text-muted">Program untuk meningkatkan pola berfikir positif, membuat peta pikiran dalam menentuka keputusan yang tepat. </p>
+						<h1 class="fs-2hx text-white">Rp 150K/pax</h1>
 						<div>
-							<ul class="text-start">
-								<li class="">An item</li>
-								<li class="">A second item</li>
-								<li class="">A third item</li>
-								<li class="">A fourth item</li>
-								<li class="">And a fifth one</li>
+							<ul class="text-start text-muted">
+								<li class="">Senam Fun</li>
+								<li class="">Ice Breaking (4 games)</li>
+								<li class="">21 Games ShareLock Home</li>
+								<li class="">Trip Education (3 Lokasi)</li>
+								<li class="">Makan 1x, Snack</li>
+								<li class="">Mineral Water</li>
+								<li class="">Tiket Masuk</li>
+								<li class="">Triner dan Instruktur Game</li>
+								<li>Foto dan Video</li>
+								<li>Brief Motivation</li>
+								<li>P3K dan Sertifikat</li>
 							</ul>
 						</div>
-						<a href="#" class="btn btn-outline btn-outline-white btn-active-light-white">Primary</a>
+						<a href="#" class="text-uppercase btn btn-outline btn-outline-white btn-active-light-white">Book Now</a>
 					</div>
 					<!--end::Item-->
+					<!--begin::Item-->
+					<div class="text-center px-6 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
+						<h1 class="text-white">Little Farmer</h1>
+						<p class="text-muted">Program pembelajaran untuk menghargai alam sekitar dengan langsung mengolah sebuah lahan pertanian </p>
+						<h1 class="fs-2hx text-white">Rp 95K/pax</h1>
+						<div>
+							<ul class="text-start text-muted">
+								<li class="">Senam Funsport</li>
+								<li class="">Ice Breaking (5 games)</li>
+								<li class="">Team Game (5 Games)</li>
+								<li class="">Team Building (5 Games)</li>
+								<li class="">Makan 1x, Snack</li>
+								<li class="">Mineral Water</li>
+								<li class="">Tiket Masuk</li>
+								<li class="">Instruktur Game</li>
+								<li>Foto dan Video</li>
+								<li>Brief Motivation</li>
+								<li>P3K dan Sertifikat</li>
+							</ul>
+						</div>
+						<a href="#" class="text-uppercase btn btn-outline btn-outline-white btn-active-light-white">Book Now</a>
+					</div>
+					<!--end::Item-->
+					<!--begin::Item-->
+					<div class="text-center px-6 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
+						<h1 class="text-white">Rafting Program</h1>
+						<p class="text-muted">Program untuk memacu adrenalin peserta dalam menelusuri air sungai sejauh 4-6 km menggunakan perahu karet (rafting)</p>
+						<h1 class="fs-2hx text-white">Rp 300K/pax</h1>
+						<div>
+							<ul class="text-start text-muted">
+								<li class="">Tiket Rafting 4km</li>
+								<li class="">Perlengkapan Rafting</li>
+								<li class="">Ice Breaking (5 games)</li>
+								<li class="">Team Game (5 Games)</li>
+								<li class="">Adventure Game (Rafting 14km)</li>
+								<li class="">Makan 1x, Snack 2x</li>
+								<li class="">Instruktur Game</li>
+								<li class="">Asuransi Kecelakaan</li>
+								<li>Foto dan Video</li>
+								<li>Transportasi Lokal</li>
+							</ul>
+						</div>
+						<a href="#" class="text-uppercase btn btn-outline btn-outline-white btn-active-light-white">Book Now</a>
+					</div>
+					<!--end::Item-->
+					<!--begin::Item-->
+					<div class="text-center px-6 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
+						<h1 class="text-white">Paint Ball Program</h1>
+						<p class="text-muted">Program untuk menciptakan pola pikir yang strategis melalui kegiatan simulasi tempur dialam terbuka. Melatih kesolidan</p>
+						<h1 class="fs-2hx text-white">Rp 300K/pax</h1>
+						<div>
+							<ul class="text-start text-muted">
+								<li class="">Ice Breaking/Fun Game</li>
+								<li class="">Team Game </li>
+								<li class="">Warrior Game</li>
+								<li class="">Set Game Paint Ball (Per Pax)</li>
+								<li class="">Clear Area Outbound</li>
+								<li class="">Makan 1x, Snack 1x</li>
+								<li class="">Mineral Water 2x (600ml)</li>
+								<li class="">Instruksi Game dan Sertificate</li>
+								<li>Durasi : 5 Jam</li>
+								<li>Free Ticket</li>
+							</ul>
+						</div>
+						<a href="#" class="text-uppercase btn btn-outline btn-outline-white btn-active-light-white">Book Now</a>
+					</div>
+					<!--end::Item-->
+					<!--begin::Item-->
+					<div class="text-center px-6 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
+						<h1 class="text-white">Chalenges Program</h1>
+						<p class="text-muted">Program untuk meningkatkan keberanian peserta dengan menyelesaikan permainan menantang keberanian</p>
+						<h1 class="fs-2hx text-white">Rp 150K/pax</h1>
+						<div>
+							<ul class="text-start text-muted">
+								<li class="">Motivation Building</li>
+								<li class="">Fun Game (6 Games)</li>
+								<li class="">Team Game (6 Games)</li>
+								<li class="">Team Building (6 Games)</li>
+								<li class="">Brief Motivation & Etertain</li>
+								<li class="">Personal Chalange</li>
+								<li class="">Makan 1x, Snack 1x</li>
+								<li class="">Mineral Water 1x</li>
+								<li class="">Instruksi Game</li>
+								<li class="">Tiket Masuk & Sound System</li>
+								<li>Foto, Video, Sertifikat & P3K</li>
+							</ul>
+						</div>
+						<a href="#" class="text-uppercase btn btn-outline btn-outline-white btn-active-light-white">Book Now</a>
+					</div>
+					<!--end::Item-->
+					<!--begin::Item-->
+					<div class="text-center px-6 pt-5 pt-lg-10 py-20 mx-5 mb-10 text-center rounded shadow-sm text-white" style="background-color: #2C473E;">
+						<h1 class="text-white">Bambu Raft </h1>
+						<p class="text-muted">Program untuk membangun kerjasama tim melalui kegiatan membuat sebuah kapal bambu untuk menyelesaikan permainan diatas air</p>
+						<h1 class="fs-2hx text-white">Rp 250K/pax</h1>
+						<div>
+							<ul class="text-start text-muted">
+								<li>Instruktur & Peralatan Game</li>
+								<li>Senam Straching</li>
+								<li>Fun Sport & Game (3 Games)</li>
+								<li>Bambu Raft Game (4 Games)</li>
+								<li>Team Building (3 Games)</li>
+								<li>Brief Motivation</li>
+								<li>Makan 1x, Snack 2x</li>
+								<li>Coffe Break 1x</li>
+								<li>Asuransi Outbound</li>
+								<li>Foto & Video</li>
+								<li>Sertifikat & P3K</li>
+							</ul>
+						</div>
+						<a href="#" class="text-uppercase btn btn-outline btn-outline-white btn-active-light-white">Book Now</a>
+					</div>
+					<!--end::Item-->
+				</div>
+				
+					<!--begin::Slider button-->
+					<button class="btn btn-icon btn-active-color-primary" id="kt_team_slider_prev2">
+						<span class="svg-icon svg-icon-3x">
+							<i class="bi bi-chevron-left fs-1"></i>
+						</span>
+					</button>
+					<!--end::Slider button-->
+
+					<!--begin::Slider button-->
+					<button class="btn btn-icon btn-active-color-primary" id="kt_team_slider_next2">
+						<span class="svg-icon svg-icon-3x">
+							<i class="bi bi-chevron-right fs-1"></i>
+						</span>
+					</button>
+					<!--end::Slider button-->
 				</div>
 			</div>
 			<!--end::Container-->
